@@ -1,0 +1,6154 @@
+{
+	"result": {
+		"status": 1,
+		"items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.0d4a10af1e4c3f137dee2695f761b7ebb734ee61.txt",
+		"qualities": {
+			"normal": 0,
+			"genuine": 1,
+			"vintage": 2,
+			"unusual": 3,
+			"unique": 4,
+			"community": 5,
+			"developer": 6,
+			"selfmade": 7,
+			"customized": 8,
+			"strange": 9,
+			"completed": 10,
+			"haunted": 11,
+			"tournament": 12
+		},
+		"qualityNames": {
+			"normal": "Normal",
+			"genuine": "Genuíno",
+			"vintage": "Clássico",
+			"unusual": "★",
+			"unique": "Único",
+			"community": "Comunitário",
+			"developer": "Valve",
+			"selfmade": "Protótipo",
+			"customized": "Personalizado",
+			"strange": "StatTrak™",
+			"completed": "Completo",
+			"haunted": "haunted",
+			"tournament": "Lembrança"
+		},
+		"originNames": [
+			{
+				"origin": 0,
+				"name": "Timed Drop"
+			},
+			{
+				"origin": 1,
+				"name": "Achievement"
+			},
+			{
+				"origin": 2,
+				"name": "Purchased"
+			},
+			{
+				"origin": 3,
+				"name": "Traded"
+			},
+			{
+				"origin": 4,
+				"name": "Crafted"
+			},
+			{
+				"origin": 5,
+				"name": "Store Promotion"
+			},
+			{
+				"origin": 6,
+				"name": "Gifted"
+			},
+			{
+				"origin": 7,
+				"name": "Support Granted"
+			},
+			{
+				"origin": 8,
+				"name": "Found in Crate"
+			},
+			{
+				"origin": 9,
+				"name": "Earned"
+			},
+			{
+				"origin": 10,
+				"name": "Third-Party Promotion"
+			},
+			{
+				"origin": 11,
+				"name": "Wrapped Gift"
+			},
+			{
+				"origin": 12,
+				"name": "Halloween Drop"
+			},
+			{
+				"origin": 13,
+				"name": "Steam Purchase"
+			},
+			{
+				"origin": 14,
+				"name": "Foreign Item"
+			},
+			{
+				"origin": 15,
+				"name": "CD Key"
+			},
+			{
+				"origin": 16,
+				"name": "Collection Reward"
+			},
+			{
+				"origin": 17,
+				"name": "Preview Item"
+			},
+			{
+				"origin": 18,
+				"name": "Steam Workshop Contribution"
+			},
+			{
+				"origin": 19,
+				"name": "Periodic Score Reward"
+			},
+			{
+				"origin": 20,
+				"name": "Recycling"
+			},
+			{
+				"origin": 21,
+				"name": "Tournament Drop"
+			},
+			{
+				"origin": 22,
+				"name": "Stock Item"
+			},
+			{
+				"origin": 23,
+				"name": "Quest Reward"
+			}
+		]
+		,
+		"items": [
+			{
+				"name": "weapon_deagle",
+				"defindex": 1,
+				"item_class": "weapon_deagle",
+				"item_type_name": "Pistola",
+				"item_name": "Desert Eagle",
+				"item_description": "Tão cara quanto poderosa, a Desert Eagle é uma pistola icônica difícil de domar, mas surpreendentemente precisa a longa distância.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_deagle",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_deagle.29e8f0d7d0be5e737d4f663ee8b394b5c9e00bdd.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_elite",
+				"defindex": 2,
+				"item_class": "weapon_elite",
+				"item_type_name": "Pistola",
+				"item_name": "Berettas Duplas",
+				"item_description": "Disparar duas Berettas ao mesmo tempo diminuirá a sua precisão e aumentará o tempo de recarga. Por outro lado, você estará disparando duas Berettas ao mesmo tempo.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_elite",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_elite.6563e9d274c6e799d71a7809021624f213d5e080.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_fiveseven",
+				"defindex": 3,
+				"item_class": "weapon_fiveseven",
+				"item_type_name": "Pistola",
+				"item_name": "Five-SeveN",
+				"item_description": "Altamente precisa e perfurante, a Five-Seven é cara e lenta para recarregar, porém compensa com o seu pente de 20 balas e um coice generoso.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_fiveseven",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_fiveseven.7c33b4a78ae94a3d14e7cd0f71b295cf61717d75.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_glock",
+				"defindex": 4,
+				"item_class": "weapon_glock",
+				"item_type_name": "Pistola",
+				"item_name": "Glock-18",
+				"item_description": "A Glock-18 é uma boa pistola para começar a partida. É mais eficiente contra oponentes sem proteção e é capaz de disparar rajadas de três balas.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_glock",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_glock.8430afea5349054d0923cefa7d2e7bf3950ce3d7.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_ak47",
+				"defindex": 7,
+				"item_class": "weapon_ak47",
+				"item_type_name": "Rifle",
+				"item_name": "AK-47",
+				"item_description": "Poderoso e confiável, o AK-47 é um dos rifles de assalto mais populares do mundo. Ele é mais mortal em rajadas curtas e controladas.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_ak47",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ak47.a320f13fea4f21d1eb3b46678d6b12e97cbd1052.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_aug",
+				"defindex": 8,
+				"item_class": "weapon_aug",
+				"item_type_name": "Rifle",
+				"item_name": "AUG",
+				"item_description": "Poderoso e preciso, o rifle de assalto com lente de aproximação AUG compensa a sua recarga demorada com a sua precisão e rápido disparo.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_aug",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_aug.6b97a75aa4c0dbb61d81efb6d5497b079b67d0da.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_awp",
+				"defindex": 9,
+				"item_class": "weapon_awp",
+				"item_type_name": "Rifle de Precisão",
+				"item_name": "AWP",
+				"item_description": "A infame AWP é conhecida por recompensar aqueles que arriscam, sendo famosa pelo funcionamento \"Um tiro, uma morte\".",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_awp",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_awp.2899e1c6345ed05d62bdbe112db1b117d022e477.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_famas",
+				"defindex": 10,
+				"item_class": "weapon_famas",
+				"item_type_name": "Rifle",
+				"item_name": "FAMAS",
+				"item_description": "Uma opção barata para jogadores com pouco dinheiro, o FAMAS preenche bem o nicho entre os rifles mais caros e as submetralhadoras menos eficientes.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_famas",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_famas.c897878873beb9e9ca4c68ef3a666869c6e78031.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_g3sg1",
+				"defindex": 11,
+				"item_class": "weapon_g3sg1",
+				"item_type_name": "Rifle de Precisão",
+				"item_name": "G3SG1",
+				"item_description": "A G3SG1 é cara e diminui a velocidade do usuário consideravelmente, mas compensa com uma taxa de disparo maior do que os outros rifles de precisão.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_g3sg1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_g3sg1.986d0e07f58c81c99aa5a47d86340f4c3d400339.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_galilar",
+				"defindex": 13,
+				"item_class": "weapon_galilar",
+				"item_type_name": "Rifle",
+				"item_name": "Galil AR",
+				"item_description": "Uma opção menos cara dentre os rifles de assalto exclusivos dos Terroristas, a Galil AR é uma arma útil em combates de média e longa distância.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_galilar",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_galilar.b84153658afdb7dc26a9854e566fde3fc42c22ef.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_m249",
+				"defindex": 14,
+				"item_class": "weapon_m249",
+				"item_type_name": "Metralhadora",
+				"item_name": "M249",
+				"item_description": "Uma poderosa metralhadora leve para áreas abertas, a M249 é a escolha perfeita para jogadores que querem abrir mão da taxa de disparo por uma precisão melhor e um limite de munição maior.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_m249",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m249.02d1cf8fa8c41af5a43749bf780c4c4a2e50ea8e.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_m4a1",
+				"defindex": 16,
+				"item_class": "weapon_m4a1",
+				"item_type_name": "Rifle",
+				"item_name": "M4A4",
+				"item_description": "Mais preciso e menos poderoso que o AK-47, o seu correspondente, o M4A4 é o rifle de assalto automático dos CTs.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_m4a1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1.39b3bd8d556e5cdebb79d60902442986eb9aedff.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_mac10",
+				"defindex": 17,
+				"item_class": "weapon_mac10",
+				"item_type_name": "Submetralhadora",
+				"item_name": "MAC-10",
+				"item_description": "Essencialmente uma caixa que lança balas, a submetralhadora MAC-10 possui uma alta taxa de disparo, que compensa a precisão ruim e o forte coice.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_mac10",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mac10.41e40474aa21a9ed90d9b21dd5adf0910f766426.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_p90",
+				"defindex": 19,
+				"item_class": "weapon_p90",
+				"item_type_name": "Submetralhadora",
+				"item_name": "P90",
+				"item_description": "Facilmente reconhecida pelo seu design \"bullpup\", a P90 é uma ótima arma para atirar em movimento devido ao seu pente de alta capacidade e pequeno coice.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_p90",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_p90.15fedd7fc90f003b8de0ded36245b438d54bc3d2.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_ump45",
+				"defindex": 24,
+				"item_class": "weapon_ump45",
+				"item_type_name": "Submetralhadora",
+				"item_name": "UMP-45",
+				"item_description": "Malcompreendida e filha do meio da família das submetralhadoras, o curto cartucho da UMP45 é o único inconveniente desta versátil arma automática de curta distância.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_ump45",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ump45.55669e2321f28efed775be27f7e3c7e71b501520.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_xm1014",
+				"defindex": 25,
+				"item_class": "weapon_xm1014",
+				"item_type_name": "Escopeta",
+				"item_name": "XM1014",
+				"item_description": "A XM1014 é uma escopeta automática poderosa que justifica o alto custo com a habilidade de limpar rapidamente qualquer área com as suas balas.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_xm1014",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_xm1014.7bd7f3985d680db2fcb7cad32b07c90b758c234b.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_bizon",
+				"defindex": 26,
+				"item_class": "weapon_bizon",
+				"item_type_name": "Submetralhadora",
+				"item_name": "PP-Bizon",
+				"item_description": "A Submetralhadora Bizon não causa muito dano, mas oferece um cartucho de alta capacidade exclusivo que permite um recarregamento rápido.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_bizon",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_bizon.58523d37ee43b9a4ef42a67b65a28e5967743a56.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_mag7",
+				"defindex": 27,
+				"item_class": "weapon_mag7",
+				"item_type_name": "Escopeta",
+				"item_name": "MAG-7",
+				"item_description": "A Mag-7, exclusiva dos CTs, fornece uma quantidade devastadora de dano a curta distância. O seu recarregamento rápido a torna uma ótima escolha tática.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_mag7",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mag7.5480ba05c61153309163c46e7d646d6958af9bf7.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_negev",
+				"defindex": 28,
+				"item_class": "weapon_negev",
+				"item_type_name": "Metralhadora",
+				"item_name": "Negev",
+				"item_description": "A Negev, metralhadora rápida com muitos projéteis, é a arma perfeita para disparar várias vezes rapidamente, apesar do preço exorbitante, do desvio alto e do coice frustrante.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_negev",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_negev.1cf512eb01bd62bcae5c54feec694f418ab71d30.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_sawedoff",
+				"defindex": 29,
+				"item_class": "weapon_sawedoff",
+				"item_type_name": "Escopeta",
+				"item_name": "Cano Curto",
+				"item_description": "A clássica Cano Curto causa muitíssimo dano a curta distância, mas com uma precisão baixa, um desvio alto e uma taxa de disparo lenta, é melhor matar os seus alvos no primeiro tiro.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_sawedoff",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_sawedoff.4c4df9c84e1edc20488c45061ad88cfd2460c4a5.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_tec9",
+				"defindex": 30,
+				"item_class": "weapon_tec9",
+				"item_type_name": "Pistola",
+				"item_name": "Tec-9",
+				"item_description": "Uma arma semiautomática não muito precisa, a Tec-9 oferece dano penetrante excelente e um grande cartucho, por mais que o seu coice não seja lá pouca coisa.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_tec9",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_tec9.74538566492b4af122be9b996bdd7d08585db3c0.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_taser",
+				"defindex": 31,
+				"item_class": "weapon_taser",
+				"item_type_name": "Equipmento",
+				"item_name": "Zeus x27",
+				"item_description": "Perfeita para emboscadas de curto alcance e confrontos em espaços fechados, a Zeus x27 é capaz de incapacitar um inimigo com um único disparo.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_taser",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_taser.3c80d155bf0547c377217920f2c7329c8b00d472.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_hkp2000",
+				"defindex": 32,
+				"item_class": "weapon_hkp2000",
+				"item_type_name": "Pistola",
+				"item_name": "P2000",
+				"item_description": "Precisa e fácil de usar, a alemã P2000 é uma útil pistola de primeira rodada que funciona melhor em adversários desprotegidos.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_hkp2000",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_hkp2000.c2221f8c2ef3df6c2fcdafd1bea9faae01f64054.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_mp7",
+				"defindex": 33,
+				"item_class": "weapon_mp7",
+				"item_type_name": "Submetralhadora",
+				"item_name": "MP7",
+				"item_description": "Versátil, porém cara, a submetralhadora alemã MP7 é a escolha perfeita para combate de alto impacto a curta distância.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_mp7",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp7.0afc09868c38a00fde50c3e4943637c714e8981e.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_mp9",
+				"defindex": 34,
+				"item_class": "weapon_mp9",
+				"item_type_name": "Submetralhadora",
+				"item_name": "MP9",
+				"item_description": "Fabricada na Suíça, a submetralhadora de ponta MP9 é uma arma ergonômica de polímero optada por empresas de segurança privada.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_mp9",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_mp9.c9103efde0845eb715cdcb67bf74bad646b1c5bc.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_nova",
+				"defindex": 35,
+				"item_class": "weapon_nova",
+				"item_type_name": "Escopeta",
+				"item_name": "Nova",
+				"item_description": "O preço baixíssimo da Nova a torna uma ótima arma para emboscadas para equipes que não podem esbanjar dinheiro.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_nova",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_nova.d9063351d4233101d02def18aa7e901d02f9b4c1.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_p250",
+				"defindex": 36,
+				"item_class": "weapon_p250",
+				"item_type_name": "Pistola",
+				"item_name": "P250",
+				"item_description": "Uma arma de fogo com alta taxa de disparo e pouco coice, a P250 é um escolha relativamente barata contra adversários bem protegidos.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_p250",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_p250.0bc9109121fb318a3bb18f6fa92692c7aa433205.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_scar20",
+				"defindex": 38,
+				"item_class": "weapon_scar20",
+				"item_type_name": "Rifle de Precisão",
+				"item_name": "SCAR-20",
+				"item_description": "O SCAR–20 é um rifle de precisão semiautomático que, em troca de uma velocidade de movimento menor e alto custo, fornece-lhe uma alta taxa de disparo e grande poder de dano a longa distância.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_scar20",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_scar20.1552c7b64dfe9e542a3b730edb80e21dcc6d243d.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_sg556",
+				"defindex": 39,
+				"item_class": "weapon_sg556",
+				"item_type_name": "Rifle",
+				"item_name": "SG 553",
+				"item_description": "Exclusiva dos Terroristas, a SG533 é uma arma de alto nível com lente de aproximação, sendo uma alternativa à AK-47 para combates a longa distância.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_sg556",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_sg556.74040869391ea2ab25777f3670a6015191a73e6c.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_ssg08",
+				"defindex": 40,
+				"item_class": "weapon_ssg08",
+				"item_type_name": "Rifle de Precisão",
+				"item_name": "SSG 08",
+				"item_description": "O SSG08 é um rifle de precisão que não causa muito dano, mas é barato e tem grande poder de disparo, sendo ideal para confrontos a longa distância no início de rodadas.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_ssg08",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_ssg08.271a856f50fd6ac1014334098b1a43d61bddb892.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife",
+				"defindex": 42,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Faca",
+				"item_description": "Silenciosa e sempre disponível, a faca possui dois tipos de ataque: o primário é rápido, mas causa pouco dano; o segundo é lento, porém causa muito dano. Uma facada nas costas recompensará jogadores sorrateiros com uma morte instantânea.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife.a07b900d79ea768eae1a217a2839c5727f760396.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_flashbang",
+				"defindex": 43,
+				"item_class": "weapon_flashbang",
+				"item_type_name": "Granada",
+				"item_name": "Granada de Luz",
+				"item_description": "A granada de luz não é letal, mas cega temporariamente qualquer um dentro da sua explosão de concussão, sendo perfeita para limpar áreas fechadas. O som alto da explosão também camufla o som de passos.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_flashbang",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_flashbang.bbde1307eeb99d78ef67c3a87a3a713023b63af2.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_hegrenade",
+				"defindex": 44,
+				"item_class": "weapon_hegrenade",
+				"item_type_name": "Granada",
+				"item_name": "Granada Explosiva",
+				"item_description": "A granada de fragmentação altamente explosiva causa um alto dano em uma área grande, sendo ideal para limpar salas hostis.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_hegrenade",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_hegrenade.7b344756d5dbdda4fd2e583a227a670599889f59.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_smokegrenade",
+				"defindex": 45,
+				"item_class": "weapon_smokegrenade",
+				"item_type_name": "Granada",
+				"item_name": "Granada de Fumaça",
+				"item_description": "A granada de fumaça cria uma cortina de fumaça num raio de médio alcance, podendo esconder a sua equipe contra franco-atiradores ou simplesmente criar uma distração útil.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_smokegrenade",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_smokegrenade.8746d3fec5a1041d61412295aee74c7d873ccacb.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_molotov",
+				"defindex": 46,
+				"item_class": "weapon_molotov",
+				"item_type_name": "Granada",
+				"item_name": "Molotov",
+				"item_description": "O Molotov é uma arma poderosa e imprevisível que cria uma barreira de chamas quando lançada, causando dano em qualquer jogador na área.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_molotov",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_molotov.d700f0165e02bd9f2cb6bdb63bb76b4cac450b76.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_decoy",
+				"defindex": 47,
+				"item_class": "weapon_decoy",
+				"item_type_name": "Granada",
+				"item_name": "Granada de Distração",
+				"item_description": "Quando lançada, a granada de distração simula o som da arma mais poderosa que você carrega, criando a ilusão de forças de apoio adicionais.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_decoy",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_decoy.d09e626c3d81f1f262bbca6146407f279a24dd03.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_incgrenade",
+				"defindex": 48,
+				"item_class": "weapon_incgrenade",
+				"item_type_name": "Granada",
+				"item_name": "Granada Incendiária",
+				"item_description": "Quando lançada, a granada incendiária libera substâncias químicas de alta temperatura capazes de queimar qualquer um dentro do raio de explosão.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_incgrenade",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_incgrenade.94d31f4f1af7d2e695f403d9a55f2cd64f3459b2.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon"
+			},
+			{
+				"name": "weapon_c4",
+				"defindex": 49,
+				"item_class": "weapon_c4",
+				"item_type_name": "C4",
+				"item_name": "Explosivo C4",
+				"item_description": "Estável e resistente a impactos físicos, este explosivo plástico improvisado tem uma velocidade de detonação de mais de 8000 metros por segundo ao ser ativado.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_c4",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_c4.98f6ef853be4a712c684562b2460dd3e3ace8f64.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"nameable": true
+				}
+			},
+			{
+				"name": "weapon_knife_t",
+				"defindex": 59,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Faca",
+				"item_description": "Silenciosa e sempre disponível, a faca possui dois tipos de ataque: o primário é rápido, mas causa pouco dano; o segundo é lento, porém causa muito dano. Uma facada nas costas recompensará jogadores sorrateiros com uma morte instantânea.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_t",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_t.6c6fbb53be0e00096168d04a9b3e7f2ab0938090.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_m4a1_silencer",
+				"defindex": 60,
+				"item_class": "weapon_m4a1",
+				"item_type_name": "Rifle",
+				"item_name": "M4A1-S",
+				"item_description": "Mais barato e com menos balas no pente que o seu correspondente sem silenciador, o M4A1 silenciado tem disparos mais silenciosos com menor coice e melhor precisão.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_m4a1_silencer",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_m4a1_silencer.a8d2a028fa33eb117d6d7665303c3316169c33f7.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_usp_silencer",
+				"defindex": 61,
+				"item_class": "weapon_hkp2000",
+				"item_type_name": "Pistola",
+				"item_name": "USP-S",
+				"item_description": "Uma arma favorita dos fãs de Counter-Strike: Source, esta versão da pistola USP tem um silenciador removível que reduz o som e o coice dos disparos.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_usp_silencer",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_usp_silencer.608e10862885084bb1cec55d87ba5e694bfd621d.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Recipe Trade Up",
+				"defindex": 62,
+				"item_class": "tool",
+				"item_type_name": "Contrato",
+				"item_name": "Contrato de Troca",
+				"item_description": "Em troca de 10 itens de qualidades idênticas, você receberá um único item de uma qualidade superior a dos itens fornecidos, da mesma coleção de um deles.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/crafting_contract",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crafting_contract.f730c658fc8994596609f1fdf497b48c6f5bd15f.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "recipe",
+					"usage_capabilities": {
+						"usable_out_of_game": true,
+						"recipe": true
+					}
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_cz75a",
+				"defindex": 63,
+				"item_class": "weapon_p250",
+				"item_type_name": "Pistola",
+				"item_name": "CZ75-Auto",
+				"item_description": "Uma variante automática da CZ75, a CZ75-Auto é outra escolha barata contra adversários bem protegidos. Mas com pouca munição fornecida, é necessária sabedoria na hora de apertar o gatilho.",
+				"proper_name": false,
+				"item_quality": 0,
+				"image_inventory": "econ/weapons/base_weapons/weapon_cz75a",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_cz75a.057939990f5f295fc5eaf8f758cdef21a7cfeb8a.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_sticker": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_bayonet",
+				"defindex": 500,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Baioneta",
+				"item_description": "Com design relativamente inalterado desde a Segunda Guerra Mundial, a baioneta ainda tem um lugar em estratégias militares modernas. Investidas de baionetas continuam eficazes, como visto recentemente na segunda Guerra do Golfo e na guerra no Afeganistão.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_bayonet",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_bayonet.515de291204d6d896724d9fbb6856fcc6054a787.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife_flip",
+				"defindex": 505,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Canivete",
+				"item_description": "Os canivetes têm uma lâmina curva de estilo persa com uma ponta afiada. Apesar dessa ponta ser frágil, a estrutura geral do canivete inteira é surpreendentemente durável.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_flip",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_flip.ebfc00735792b1e2947b30a321a07215dae8ceed.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife_gut",
+				"defindex": 506,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Faca Gut Hook",
+				"item_description": "O que mais chama a atenção em uma faca Gut Hook é o gancho no dorso da lâmina. Popularizada inicialmente para auxiliar em caças, a Gut Hook também é excelente para cortar materiais fibrosos como cordas, redes ou cintos de segurança com facilidade.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_gut",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_gut.1d53007384970e8eaf28448312777683fd633a79.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife_karambit",
+				"defindex": 507,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Karambit",
+				"item_description": "Com a sua lâmina curva imitando uma garra de tigre, a Karambit foi criada como parte da tradição marcial de \"silat\" do Sudeste Asiático. Esta faca geralmente é utilizada com um cabo invertido, com o dedo indicador no aro.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_karambit",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_karambit.8b491b581a4b9c7b5298071425f2b29a39a2a12f.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife_m9_bayonet",
+				"defindex": 508,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Baioneta M9",
+				"item_description": "Esta é a Baioneta M-9. Criada originalmente para ser acoplada em um rifle, ela também serve para combates corpo a corpo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_m9_bayonet",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_m9_bayonet.1a55109e0c88792e5d56ea04dc1f676e44f9dec2.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife_tactical",
+				"defindex": 509,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Faca do Caçador",
+				"item_description": "Uma faca projetada para operações táticas modernas, cuja lâmina é adequada tanto para combate como para fins utilitários. O gume distinto permite um nível máximo de penetração através da mais rígida das superfícies.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_tactical",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_tactical.7621bbad70410deb629d60ed98ef248dac525356.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "weapon_knife_butterfly",
+				"defindex": 515,
+				"item_class": "weapon_knife",
+				"item_type_name": "Faca",
+				"item_name": "Butterfly Knife",
+				"item_description": "This is a custom-designed balisong, commonly known as a butterfly knife. The defining characteristic of this weapon is the fan-like opening of a freely pivoting blade, allowing rapid deployment or concealment. As a result, butterfly knives are outlawed in many countries.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapons/base_weapons/weapon_knife_butterfly",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapons/base_weapons/weapon_knife_butterfly.794147e84a4e9426202d45145910cbb007797ce5.png",
+				"image_url_large": "",
+				"craft_class": "weapon",
+				"craft_material_type": "weapon",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Five Year Service Coin",
+				"defindex": 874,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda dos 5 Anos de Serviço",
+				"item_description": "Membro da comunidade do Counter-Strike por mais de 5 anos.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/5yearcoin",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/5yearcoin.8349aa6fa8af5018a3906bf5a0223537dce3e0bf.png",
+				"image_url_large": "",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "DreamHack SteelSeries 2013 CS:GO Champion",
+				"defindex": 875,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Campeão do DreamHack 2013",
+				"item_description": "Este troféu foi entregue à equipe campeã do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/dreamhack_2013_champion",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_champion.9d715ee847c450b81f99861199a686e2aee36be0.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_champion_large.a71dc37ea50a3c5a441922acc9b0596fa2b51a1d.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "DreamHack SteelSeries 2013 CS:GO Finalist",
+				"defindex": 876,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Finalista do DreamHack 2013",
+				"item_description": "Este troféu foi entregue aos finalistas do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/dreamhack_2013_finalist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_finalist.53f0c415765ea52f4302208fa60579e9094da109.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_finalist_large.dc4dced76778dfb4b7abb779b49dd07be8169bb8.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "DreamHack SteelSeries 2013 CS:GO Semifinalist",
+				"defindex": 877,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Semifinalista do DreamHack 2013",
+				"item_description": "Este troféu foi entregue aos semifinalistas do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/dreamhack_2013_semifinalist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_semifinalist.03f538b9b1b48220f77e78820946e1cbfdb5b5d6.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_semifinalist_large.9cabb8b8e44611b4b709c56f074a259ad2487eef.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "DreamHack SteelSeries 2013 CS:GO Quarterfinalist",
+				"defindex": 878,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Jogador das Quartas de Final do DreamHack 2013",
+				"item_description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato DreamHack SteelSeries de CS:GO de 2013.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/dreamhack_2013_quarterfinalist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_quarterfinalist.826029a11953955679bd1572a6520e56c1ba66f2.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/dreamhack_2013_quarterfinalist_large.28b0d7ef982ef674148f77c5729be4d5221c0e49.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "EMS One Katowice 2014 CS:GO Champion",
+				"defindex": 879,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Campeão do EMS One Katowice 2014",
+				"item_description": "Este troféu foi entregue à equipe campeã do Campeonato EMS One Katowice de CS:GO de 2014.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/katowice_2014_champion",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_champion.796479b0c33ebd69fb00fada14b565036e304da3.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_champion_large.bf565f6085cb4a3fa366e3167f7b873090176623.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "EMS One Katowice 2014 CS:GO Finalist",
+				"defindex": 880,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Finalista do EMS One Katowice 2014",
+				"item_description": "Este troféu foi entregue aos finalistas do Campeonato EMS One Katowice de CS:GO de 2014.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/katowice_2014_finalist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_finalist.5aa55b24f3d385735476e27cbff25370bac476c0.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_finalist_large.a96fab9b692e4e55cb310682df0deb8dba8f3a89.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "EMS One Katowice 2014 CS:GO Semifinalist",
+				"defindex": 881,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Semifinalista do EMS One Katowice 2014",
+				"item_description": "Este troféu foi entregue aos semifinalistas do Campeonato EMS One Katowice de CS:GO de 2014.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/katowice_2014_semifinalist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_semifinalist.3edec56e82c658ea8b94aed79b44401370775e56.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_semifinalist_large.85046d0d4b5748572859cb638c8e1f502825955d.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "EMS One Katowice 2014 CS:GO Quarterfinalist",
+				"defindex": 882,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Jogador das Quartas de Final do EMS One Katowice 2014",
+				"item_description": "Este troféu foi entregue aos participantes das quartas de final do Campeonato EMS One Katowice de CS:GO de 2014.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/katowice_2014_quarterfinalist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_quarterfinalist.1ad440c5b1334996c339dbfe631037a86c847604.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/katowice_2014_quarterfinalist_large.54910e582990bd76a5058312f6ae85c3a5dec30c.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season One Spring 2013",
+				"defindex": 1000,
+				"item_class": "tool",
+				"item_type_name": "Passe",
+				"item_name": "Passe da Operação Acerto de Contas",
+				"item_description": "O evento Operação Acerto de Contas teve o seu início e término nas datas 25 de abril e 2 de setembro, respectivamente. Criadores de mapas da comunidade coletivamente arrecadaram mais de 180 mil dólares. Este passe não fornece mais acesso a uma Operação mas pode ser resgatado para uma moeda comemorativa da Operação Acerto de Contas.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/community_support_pass",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass.b17a35da019f3256833ea4089c7df6c2ece80274.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_large.d1cfbac8be9e92127893ff2054647b73c76c35b3.png",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true,
+					"usable_out_of_game": true
+				},
+				"tool": {
+					"type": "season_pass",
+					"use_string": "USAR"
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season One Spring 2013 Coin 1",
+				"defindex": 1001,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda de Desafio da Operação Acerto de Contas",
+				"item_description": "Participou da Operação Acerto de Contas para apoiar criadores de mapas da comunidade.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/community_support_pass_coin1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin1.c52c7928635e86d8f855ffaf97dff79a1739cdf7.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin1_large.bff9cd331dd659a64080d98e7705b76c024db56b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season One Spring 2013 Coin 2",
+				"defindex": 1002,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda Prateada da Operação Acerto de Contas",
+				"item_description": "Participou da Operação Acerto de Contas por 10 horas para apoiar criadores de mapas da comunidade.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/community_support_pass_coin2",
+				"min_ilevel": 2,
+				"max_ilevel": 2,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin2.73f8f284be9bef49104ed851f9db238feffd1492.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin2_large.bc786108abf26dbe30a13fc81d15719f495b0560.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season One Spring 2013 Coin 3",
+				"defindex": 1003,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda Dourada da Operação Acerto de Contas",
+				"item_description": "Participou da Operação Acerto de Contas por 50 horas para apoiar criadores de mapas da comunidade.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/community_support_pass_coin3",
+				"min_ilevel": 3,
+				"max_ilevel": 3,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin3.b4d9b8e8cb1e591dcbc5cd4be97271990e501050.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/community_support_pass_coin3_large.c3afe0cfbd929f85fca1a63ec1815e8336dcfe7d.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "Map Token Museum",
+				"defindex": 1004,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Museum",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_museum",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_museum.19b18ee64caec03d8b6e24989b3cf4c456c78cc3.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_museum_large.7e979cc2871851550a473bd37a46d7b6c200b7ad.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Downtown",
+				"defindex": 1005,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Downtown",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_downtown",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_downtown.af8f4d7a6335ddcc4ecf1ff362e9932e9e348a66.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_downtown_large.50a8ae9bd92cce414e04a250292111db671fa00d.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Thunder",
+				"defindex": 1006,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Thunder",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_thunder",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_thunder.df4841912515e3ea5cdb5c5aa3574a713e1cdc1f.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_thunder_large.9a2001c80a3fbf6d46f153c0563047002bd1f2fd.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Favela",
+				"defindex": 1007,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Favela",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_favela",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_favela.87c12ee09f70a181e8a1af3df1e0ff6d8febfdbe.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_favela_large.338a662380c3ecfbb1382a395a3bb08a383225ae.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Motel",
+				"defindex": 1008,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Motel",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_motel",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_motel.6ddc95f4d4246e3538ea66ab1afbebdef51db86b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_motel_large.0e9f82978876c2c69d3164f5e7db1aeaac85dd04.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Seaside",
+				"defindex": 1009,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Seaside",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_seaside",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_seaside.6e33fcee9c611dad2b119c16cfa9cfd52854c4e5.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_seaside_large.43eca57040d443e997d3f7260c20f2613a70c6a6.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Library",
+				"defindex": 1010,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Library",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_library",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_library.c27bb561fe98926e3f879389daf62aa84967fbc8.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_library_large.a1158f9a819a7c3a3466670c95cfacd3dc92ce61.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season Two Autumn 2013",
+				"defindex": 1012,
+				"item_class": "tool",
+				"item_type_name": "Passe",
+				"item_name": "Passe da Operação Bravo",
+				"item_description": "A Operação Bravo começou em 19 de setembro de 2013 e acabou em 5 de fevereiro de 2014. Este passe não concede mais acesso a uma Operação, mas pode ser resgatado em troca de uma Moeda da Operação Bravo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_bravo_pass",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_pass.d8cb196619345c8b5883f515bdb46c5b3de4e995.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true,
+					"usable_out_of_game": true
+				},
+				"tool": {
+					"type": "season_pass",
+					"use_string": "USAR"
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season Two Autumn 2013 Coin 1",
+				"defindex": 1013,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda de Desafio da Op. Bravo",
+				"item_description": "Participou da Operação Bravo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_bravo_bronze",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_bronze.fbc76a430e41a45125959f7445b1efa270ab46c2.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_bronze_large.2542494a3a070356b8ba5f11dc0e38c95e1e624f.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "match wins",
+						"class": "match_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Two Autumn 2013 Coin 2",
+				"defindex": 1014,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda Prateada da Op. Bravo",
+				"item_description": "Participou da Operação Bravo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_bravo_silver",
+				"min_ilevel": 2,
+				"max_ilevel": 2,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_silver.b2c3e4f7335165fef148847c8fd86cf1bdc1f573.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_silver_large.3f176a6b2c91c8b91747afc432c755c0b7e6fca7.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "match wins",
+						"class": "match_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Two Autumn 2013 Coin 3",
+				"defindex": 1015,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda Dourada da Op. Bravo",
+				"item_description": "Participou da Operação Bravo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_bravo_gold",
+				"min_ilevel": 3,
+				"max_ilevel": 3,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_gold.365a7644f1f889a7a710805585b26fe9766248a1.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_bravo_gold_large.d6be46887a064db399a7155c3e88ae321e2d3eba.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "match wins",
+						"class": "match_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Map Token Agency",
+				"defindex": 1016,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Agency",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_agency",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_agency.0d6b5e9d05ffb0f8e450eb82d7a78d8a47c1064f.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_agency_large.1759793368db27d5c0230c4b3b185aa6d2f4a2b6.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Ali",
+				"defindex": 1017,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Ali",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_ali",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ali.b851b1a64874bbc20bedcd6bd13746f2c61a0d2f.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ali_large.7fc60a735cc50aad8744f15ee8e5d262deb4206a.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Cache",
+				"defindex": 1018,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Cache",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_cache",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_cache.11640014eb64dec8f5ee580add610fb195f8ac72.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_cache_large.96803d4f8de5436ec54679d83a90032bee4cf481.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Chinatown",
+				"defindex": 1019,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Chinatown",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_chinatown",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_chinatown.f5f7a7f0834016df6ef5a1cc603e746fbfecfa20.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_chinatown_large.9a03b6f7a60fed7e2bc7277cbf5930a07d2e6ffa.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Gwalior",
+				"defindex": 1020,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Gwalior",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_gwalior",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_gwalior.c595fe8abca95bd1866a91d9f339353f1f0eb490.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_gwalior_large.cc5d1f9ef72272f366c2ea487b423c9fa8f87582.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Ruins",
+				"defindex": 1021,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Ruins",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_ruins",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ruins.56bd126e6e4e3ff15fd12fab6df459339adcb774.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_ruins_large.3b619b3214cec42345e3fc86775eaf9590968307.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Siege",
+				"defindex": 1022,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Siege",
+				"item_description": " ",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_siege",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_siege.dd1bd3688b5caa4ec580cc6a2080e135b3ee8dd8.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_siege_large.d5febba68d951a56955e6b2a4ba785077abb2dd5.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season Three Spring 2014",
+				"defindex": 1023,
+				"item_class": "tool",
+				"item_type_name": "Passe",
+				"item_name": "Passe da Operação Fênix",
+				"item_description": "Dá acesso à Operação Fênix, que consiste no acesso a mapas da comunidade, itens exclusivos e o registro das suas estatísticas no modo competitivo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_phoenix_pass",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_pass.ef3b4180e52d2d4a4cbb9fbe2df440b1ee8f0dca.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true,
+					"usable_out_of_game": true
+				},
+				"tool": {
+					"type": "season_pass",
+					"use_string": "USAR"
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season Three Spring 2014 Coin 1",
+				"defindex": 1024,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda de Desafio da Op. Fênix",
+				"item_description": "Participou da Operação Fênix.\nJogue e vença partidas Competitivas da Operação Fênix para aprimorar esta moeda.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_phoenix_bronze",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_bronze.b95d670bb428fa933b93e903feeb338728e1cd8d.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_bronze_large.a370356824b271e2691ec6495e91e66e89567ceb.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "match wins",
+						"class": "match_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Three Spring 2014 Coin 2",
+				"defindex": 1025,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda Prateada da Op. Fênix",
+				"item_description": "Participou da Operação Fênix.\nJogue e vença partidas Competitivas da Operação Fênix para aprimorar esta moeda.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_phoenix_silver",
+				"min_ilevel": 2,
+				"max_ilevel": 2,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_silver.b5c4fb2070286c6c3682345dcdbf17dadd16e1af.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_silver_large.0340dbf0af85f9f4c4bf36b3c605c273d9f80a26.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "match wins",
+						"class": "match_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Three Spring 2014 Coin 3",
+				"defindex": 1026,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda Dourada da Op. Fênix",
+				"item_description": "Participou da Operação Fênix.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_phoenix_gold",
+				"min_ilevel": 3,
+				"max_ilevel": 3,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_gold.44da84b8da10c864f7eea9b2d0f9c780184ec30e.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_phoenix_gold_large.7d5441fcfab0ce9df406b6e36a16ef1d5b884cf0.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "match wins",
+						"class": "match_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Four Summer 2014",
+				"defindex": 1027,
+				"item_class": "tool",
+				"item_type_name": "Passe",
+				"item_name": "Operation Breakout All Access Pass",
+				"item_description": "Grants all access to Operation Breakout, which consists of an upgradeable Challenge Coin, mission drops that reward new weapon finishes, Operation Breakout Case drops, and a journal that contains an Active Duty Scorecard, an Operation Scorecard, and Friends leaderboard.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_breakout_pass",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_pass.2c84f278eec59611affd866a64e255d6f64b8a44.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true,
+					"usable_out_of_game": true
+				},
+				"tool": {
+					"type": "season_pass",
+					"use_string": "USAR"
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Season Four Summer 2014 Coin 1",
+				"defindex": 1028,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Operation Breakout Challenge Coin",
+				"item_description": "Participated in Operation Breakout.\nFulfill missions on official matchmaking servers to upgrade this coin.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_breakout_bronze",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_bronze.785329d1348a6291c6235bd21920782945484c35.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_bronze_large.e829dba96adb71e711ed2d8f4628a67f31cfe56d.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "operation minutes played",
+						"class": "operation_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "operation wins",
+						"class": "operation_wins",
+						"value": 0
+					},
+					{
+						"name": "operation kills",
+						"class": "operation_kills",
+						"value": 0
+					},
+					{
+						"name": "operation 3k",
+						"class": "operation_3k",
+						"value": 0
+					},
+					{
+						"name": "operation 4k",
+						"class": "operation_4k",
+						"value": 0
+					},
+					{
+						"name": "operation 5k",
+						"class": "operation_5k",
+						"value": 0
+					},
+					{
+						"name": "operation hsp",
+						"class": "operation_hsp",
+						"value": 0
+					},
+					{
+						"name": "operation mvps",
+						"class": "operation_mvps",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					},
+					{
+						"name": "quests complete",
+						"class": "quests_complete",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Four Summer 2014 Coin 2",
+				"defindex": 1029,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Silver Operation Breakout Coin",
+				"item_description": "Participated in Operation Breakout.\nFulfill missions on official matchmaking servers to upgrade this coin.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_breakout_silver",
+				"min_ilevel": 2,
+				"max_ilevel": 2,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_silver.097fa8ff795b71ca6e57fcb79129412e81760933.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_silver_large.8e1574f62b67d6994ca2a2be962b274d72c24e72.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "operation minutes played",
+						"class": "operation_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "operation wins",
+						"class": "operation_wins",
+						"value": 0
+					},
+					{
+						"name": "operation kills",
+						"class": "operation_kills",
+						"value": 0
+					},
+					{
+						"name": "operation 3k",
+						"class": "operation_3k",
+						"value": 0
+					},
+					{
+						"name": "operation 4k",
+						"class": "operation_4k",
+						"value": 0
+					},
+					{
+						"name": "operation 5k",
+						"class": "operation_5k",
+						"value": 0
+					},
+					{
+						"name": "operation hsp",
+						"class": "operation_hsp",
+						"value": 0
+					},
+					{
+						"name": "operation mvps",
+						"class": "operation_mvps",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					},
+					{
+						"name": "quests complete",
+						"class": "quests_complete",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Community Season Four Summer 2014 Coin 3",
+				"defindex": 1030,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Gold Operation Breakout Coin",
+				"item_description": "Participou da Operação Libertação.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/operation_breakout_gold",
+				"min_ilevel": 3,
+				"max_ilevel": 3,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_gold.d932cc657e797e3e0e0ba0ac4d5932aaf54d4e48.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/operation_breakout_gold_large.3344fe7583c6b875072c240d98857c0aff2c3ea7.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+					{
+						"name": "minutes played",
+						"class": "minutes_played",
+						"value": 1
+					},
+					{
+						"name": "operation minutes played",
+						"class": "operation_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "operation wins",
+						"class": "operation_wins",
+						"value": 0
+					},
+					{
+						"name": "operation kills",
+						"class": "operation_kills",
+						"value": 0
+					},
+					{
+						"name": "operation 3k",
+						"class": "operation_3k",
+						"value": 0
+					},
+					{
+						"name": "operation 4k",
+						"class": "operation_4k",
+						"value": 0
+					},
+					{
+						"name": "operation 5k",
+						"class": "operation_5k",
+						"value": 0
+					},
+					{
+						"name": "operation hsp",
+						"class": "operation_hsp",
+						"value": 0
+					},
+					{
+						"name": "operation mvps",
+						"class": "operation_mvps",
+						"value": 0
+					},
+					{
+						"name": "competitive minutes played",
+						"class": "competitive_minutes_played",
+						"value": 0
+					},
+					{
+						"name": "competitive wins",
+						"class": "competitive_wins",
+						"value": 0
+					},
+					{
+						"name": "competitive kills",
+						"class": "competitive_kills",
+						"value": 0
+					},
+					{
+						"name": "competitive 3k",
+						"class": "competitive_3k",
+						"value": 0
+					},
+					{
+						"name": "competitive 4k",
+						"class": "competitive_4k",
+						"value": 0
+					},
+					{
+						"name": "competitive 5k",
+						"class": "competitive_5k",
+						"value": 0
+					},
+					{
+						"name": "competitive hsp",
+						"class": "competitive_hsp",
+						"value": 0
+					},
+					{
+						"name": "competitive mvps",
+						"class": "competitive_mvps",
+						"value": 0
+					},
+					{
+						"name": "quests complete",
+						"class": "quests_complete",
+						"value": 0
+					}
+				]
+				
+			},
+			{
+				"name": "Map Token Castle",
+				"defindex": 1031,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Castle",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_castle",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_castle.c6d0534f38e0cd500d148e845447a0619a4e5116.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_castle_large.2d8fc69105f2cf565fe0d6bdef69c258669f0592.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Black Gold",
+				"defindex": 1032,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Black Gold",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_blackgold",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_blackgold.4c8202949af55ffd2a2bb778d169d156d28c141b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_blackgold_large.439811071418e7d3d51564ba305e262dcb86ed76.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Rush",
+				"defindex": 1033,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Rush",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_rush",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_rush.9752e9d51926e5138af27934fb425952a3222d86.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_rush_large.835ed1760d3a5f81f5e4e531a905f44192e306f6.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Mist",
+				"defindex": 1034,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Mist",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_mist",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_mist.71e33321e68064ac2d40c4e76da562c85621c281.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_mist_large.d3bb68c34cb66c88de90e6c944c9c6e16beeaac7.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Insertion",
+				"defindex": 1035,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Insertion",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_insertion",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_insertion.fb48c5e43d10ccdaa98dc2439defe3e9dae50017.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_insertion_large.a5344a201a9536d376807899c84c5a0ff36bd2ad.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Map Token Overgrown",
+				"defindex": 1036,
+				"item_class": "map_token",
+				"item_type_name": "Colecionável",
+				"item_name": "Moeda do Mapa Overgrown",
+				"item_description": "",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/status_icons/maptoken_overgrown",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_overgrown.fe6527c10619dc1b126a7492bce549eec3494c8b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/maptoken_overgrown_large.78dd43f0b9eac0fc3ba566ea53981edc26d81c33.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Name Tag",
+				"defindex": 1200,
+				"item_class": "tool",
+				"item_type_name": "Etiqueta",
+				"item_name": "Etiqueta de Nome",
+				"item_description": "Este item renomeará uma arma, que receberá uma placa com o nome personalizado visível durante o jogo.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/tag",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/tag.a2bf9644e84e15506b9abab84125eb24527b723a.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/tools/tag_large.d3594703dfdcce8d5d00b5b90a6e78c286c8574e.png",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "name",
+					"usage_capabilities": {
+						"nameable": true
+					}
+				}
+			},
+			{
+				"name": "Weapon Case Key",
+				"defindex": 1203,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa do CS:GO",
+				"item_description": "Esta chave só abrirá Caixas de Armas de séries da Valve. Caixas de outras séries (como Caixas de eSports) precisam de uma chave específica para serem abertas.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/weapon_case_key",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key.9da9cda11754311c016099d05c3dd3309ffd7cd6.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key_large.9da9cda11754311c016099d05c3dd3309ffd7cd6.png",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "generic_valve_key",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "E-Sports Weapon Case Key 1",
+				"defindex": 1204,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa de eSports",
+				"item_description": "Esta chave abre qualquer Caixa de eSports.\n\nUma parcela da renda obtida com a venda desta chave será destinada a um dos torneios de CS:GO da comunidade com reputação. Fique ligado para anúncios futuros.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/weapon_case_key_special_1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/weapon_case_key_special_1.6ced14e09f1d1f2f52a648b37d245fc1f1419a34.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "esports_crate_key",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Sticker",
+				"defindex": 1209,
+				"item_class": "tool",
+				"item_type_name": "Adesivo",
+				"item_name": "Adesivo",
+				"item_description": "Este adesivo pode ser aplicado a qualquer arma no seu inventário e pode ser raspado para parecer mais desgastado. Você pode raspar o mesmo adesivo múltiplas vezes, tornando-o cada vez mais desgastado, até ser removido da arma.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": null,
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "sticker",
+					"usage_capabilities": {
+						"usable_out_of_game": true,
+						"can_sticker": true
+					}
+				}
+			},
+			{
+				"name": "Gift - 1 Player",
+				"defindex": 1210,
+				"item_class": "tool",
+				"item_type_name": "Presente",
+				"item_name": "Pacote de Presente",
+				"item_description": "Quando usado, um jogador aleatório na sua partida receberá um item aleatório de presente.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/gift1player",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/gift1player.d7af0c74ccc8314c314c870708c0ae3a0ead32ad.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true
+				},
+				"tool": {
+					"type": "gift"
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 8
+					}
+				]
+				
+			},
+			{
+				"name": "Gift - 9 Players",
+				"defindex": 1211,
+				"item_class": "tool",
+				"item_type_name": "Presente",
+				"item_name": "Palete de Presentes",
+				"item_description": "Quando usado, até outros 9 jogadores aleatórios na sua partida receberão um item aleatório de presente.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/gift9players",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/gift9players.d17fef24890f21e6de8cbc9690f5198d45cbb617.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true
+				},
+				"tool": {
+					"type": "gift"
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 8
+					}
+				]
+				
+			},
+			{
+				"name": "Sticker Crate Key",
+				"defindex": 1212,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Cápsula de Adesivo",
+				"item_description": "Esta chave só abrirá Cápsulas de séries da Valve.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/sticker_crate_key",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/sticker_crate_key.1a436eb9f66602a8f472adf2afa600271056370c.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "sticker_crate_key",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Community Case Key 1",
+				"defindex": 1214,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa da Ofensiva de Fim de Ano",
+				"item_description": "Esta chave só abre Caixas da Ofensiva de Fim de Ano",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/crate_key_community_1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crate_key_community_1.f168439f93277d8b3869910a3ee649ee4039edb4.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "community_case_1",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Gift - 25 Spectators",
+				"defindex": 1215,
+				"item_class": "tool",
+				"item_type_name": "Presente",
+				"item_name": "Pacote de Participação do Público",
+				"item_description": "Quando usado, até 25 jogadores que estão assistindo à sua partida receberão um item aleatório de presente.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/gift25spectators",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/gift25spectators.2df066096864ba183f903f656abe149b9d1f7a02.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"capabilities": {
+					"usable_gc": true
+				},
+				"tool": {
+					"type": "gift"
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 8
+					}
+				]
+				
+			},
+			{
+				"name": "Community Case Key 2",
+				"defindex": 1303,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa da Operação Fênix",
+				"item_description": "Esta chave abre apenas Caixas da Operação Fênix",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/crate_key_community_2",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crate_key_community_2.d1bb59f3fd96f4332979690c08dc314f74d484de.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "community_case_2",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Community Sticker Capsule 1 Key May 2014",
+				"defindex": 1304,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Cápsula de Adesivo da Comunidade 1",
+				"item_description": "Esta chave abre a Cápsula de Adesivo da Comunidade 1.\n\nUma parte da renda obtida com a venda desta chave será destinada aos criadores dos adesivos.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/sticker_crate_key_community01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/sticker_crate_key_community01.1301a32528f2f388b93f0d23a6ca23578bf99569.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "sticker_pack_community01_key",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Community Case Key 3 May 2014",
+				"defindex": 1305,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa de Armas do Caçador",
+				"item_description": "Esta chave só abre Caixas de Armas do Caçador",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/crate_key_community_3",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crate_key_community_3.37247b8634e99bd7061ed75e9b298cb031b24beb.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "community_case_3",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "quest",
+				"defindex": 1306,
+				"item_class": "collectible_item",
+				"item_type_name": "Missão",
+				"item_name": "Missão",
+				"item_description": "Fulfill missions on official matchmaking servers to earn the stated reward. You must complete the match to register any mission progress.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/mission",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/mission.0066b84dc0d2136aae1518b9194d96d70b5b30fa.png",
+				"image_url_large": "",
+				"capabilities": {
+					"can_delete": true
+				},
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Community Case Key 3 June 2014",
+				"defindex": 1307,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa de Armas do Caçador",
+				"item_description": "Esta chave só abre Caixas de Armas do Caçador",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/crate_key_community_3",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crate_key_community_3.37247b8634e99bd7061ed75e9b298cb031b24beb.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "community_case_3",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Community Sticker Capsule 1 Key June 2014",
+				"defindex": 1308,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Cápsula de Adesivo da Comunidade 1",
+				"item_description": "Esta chave abre a Cápsula de Adesivo da Comunidade 1.\n\nUma parte da renda obtida com a venda desta chave será destinada aos criadores dos adesivos.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/sticker_crate_key_community01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/sticker_crate_key_community01.1301a32528f2f388b93f0d23a6ca23578bf99569.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "sticker_pack_community01_key",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "Community Case Key 4",
+				"defindex": 1309,
+				"item_class": "tool",
+				"item_type_name": "Chave",
+				"item_name": "Chave da Caixa da Operação Libertação",
+				"item_description": "This key only opens Operation Breakout Cases",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/tools/crate_key_community_4",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/tools/crate_key_community_4.9767c63233d8985cd090230ab2bfa29ae05ecdc0.png",
+				"image_url_large": "",
+				"craft_class": "tool",
+				"craft_material_type": "tool",
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "community_case_4",
+					"usage_capabilities": {
+						"decodable": true,
+						"usable_out_of_game": true
+					}
+				}
+			},
+			{
+				"name": "crate_valve_1",
+				"defindex": 4001,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de Arma do CS:GO",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_valve_1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_valve_1.23c783d005b446a1004c97057cfb5ac2d8dae186.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "generic_valve_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esports_2013",
+				"defindex": 4002,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de eSports",
+				"item_description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esports_2013",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esports_2013.c4fd3c71742688383914a7ef7127652764f4567c.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "esports_crate_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 2
+					}
+				]
+				
+			},
+			{
+				"name": "crate_operation_ii",
+				"defindex": 4003,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa da Operação Bravo",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_operation_ii",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_operation_ii.5e5104a6291741c5693a1e78bd6ecc9560b51f0a.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "generic_valve_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 3
+					}
+				]
+				
+			},
+			{
+				"name": "crate_valve_2",
+				"defindex": 4004,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "2ª Caixa de Arma do CS:GO",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_valve_2",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_valve_2.912031176f2320d2d39f449ab3e27c41f5ec7faa.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "generic_valve_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esports_2013_winter",
+				"defindex": 4005,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de eSports de Fim de Ano",
+				"item_description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esports_2013_14",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esports_2013_14.a83d1976bb20db8b4a64e7acad93aac87127ddd5.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "esports_crate_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 5
+					}
+				]
+				
+			},
+			{
+				"name": "crate_dhw13_promo",
+				"defindex": 4006,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Pacote de Lembrança do DreamHack 2013",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_dhw13_promo",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_dhw13_promo.e2fdfaae196be9b45cd67086e99269f61dc0ca8d.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 6
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "crate_sticker_pack01",
+				"defindex": 4007,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Cápsula de Adesivo",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_sticker_pack01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack01.050d07ce442dc326f33bbb10ade6df941136b479.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "sticker_crate_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 9
+					}
+				]
+				
+			},
+			{
+				"name": "crate_community_1",
+				"defindex": 4009,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de Arma da Ofensiva de Fim de Ano",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_community_1",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_community_1.b176b8ca60249d0a2e7c6d72ec7d2d1a9632bd06.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "community_case_1",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 7
+					}
+				]
+				
+			},
+			{
+				"name": "crate_valve_3",
+				"defindex": 4010,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "3ª Caixa de Arma do CS:GO",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_valve_3",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_valve_3.b49dc22a06991946e849c7b364b7d5876534ef61.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "generic_valve_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 10
+					}
+				]
+				
+			},
+			{
+				"name": "crate_community_2",
+				"defindex": 4011,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de Arma da Operação Fênix",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_community_2",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_community_2.49174abddcccb6519b83d27d0cff476e1c44cc57.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "community_case_2",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 11
+					}
+				]
+				
+			},
+			{
+				"name": "crate_sticker_pack02",
+				"defindex": 4012,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Cápsula de Adesivo 2",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_sticker_pack02",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack02.49c83ded1d25de8cc486de43797b260361bdeff7.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "sticker_crate_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 12
+					}
+				]
+				
+			},
+			{
+				"name": "crate_ems14_promo",
+				"defindex": 4013,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Pacote de Lembrança do EMS One 2014",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_ems14_promo",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_ems14_promo.a2c1d0b7aae61d8bd734d7dd3f391fa42bfee643.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 13
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 3
+					}
+				]
+				
+			},
+			{
+				"name": "crate_sticker_pack_kat2014_01",
+				"defindex": 4014,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Desafiantes do EMS Katowice 2014",
+				"item_description": "Esta cápsula contém um único adesivo de um dos participantes do EMS One Katowice 2014. Uma parcela da renda será dividida igualmente entre as organizações inclusas.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_kat2014_01.217983bfc1c97317903a25beab668565ad417ef8.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 14
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 3
+					}
+				]
+				
+			},
+			{
+				"name": "crate_sticker_pack_kat2014_02",
+				"defindex": 4015,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Lendas do EMS Katowice 2014",
+				"item_description": "Esta cápsula contém um único adesivo de um dos participantes do EMS One Katowice 2014. Uma parcela da renda será dividida igualmente entre as organizações inclusas.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_02",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_kat2014_02.71f2e9a0cb0e3f5ffea795f381058ecb84152d80.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 15
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 3
+					}
+				]
+				
+			},
+			{
+				"name": "crate_sticker_pack_community01",
+				"defindex": 4016,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Cápsula de Adesivo da Comunidade 1",
+				"item_description": "Esta cápsula contém um único adesivo criado pela comunidade. Uma parcela da renda será dividida igualmente entre os criadores inclusos.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_sticker_pack_community01",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_sticker_pack_community01.86463c48a690c9df0853510aeb9f43275baa2d49.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "sticker_pack_community01_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 16
+					}
+				]
+				
+			},
+			{
+				"name": "crate_community_3",
+				"defindex": 4017,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de Armas do Caçador",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_community_3",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_community_3.ce832a92f9fc329dc87d7a802374b918b07cdb84.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "community_case_3",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 17
+					}
+				]
+				
+			},
+			{
+				"name": "crate_community_4",
+				"defindex": 4018,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "Caixa de Arma da Operação Libertação",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_community_4",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_community_4.f0d23848527b7be0f1fc9556b1f3ecfb1193ee40.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "community_case_4",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 18
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esports_2014_summer",
+				"defindex": 4019,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "eSports 2014 Summer Case",
+				"item_description": "A portion of the proceeds from the key used to unlock this will help support CS:GO professional tournament prize pools.",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esports_2014_summer",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esports_2014_summer.e579e3f7ca004fd9b51aa0f597590c936bb9f67c.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true,
+					"can_delete": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"restriction": "esports_crate_key",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 19
+					}
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Dust II",
+				"defindex": 6001,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Dust II Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Dust II",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_dust2",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_dust2.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_dust2_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Guardian Elite",
+				"defindex": 6002,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Guardian Elite Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Guardian Elite",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_guardianelite",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_guardianelite.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_guardianelite_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Mirage",
+				"defindex": 6003,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Mirage Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Mirage",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_mirage",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_mirage.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_mirage_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Inferno",
+				"defindex": 6004,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Inferno Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Inferno",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_inferno",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_inferno.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_inferno_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Italy",
+				"defindex": 6005,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Italy Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Italy",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_italy",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_italy.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_italy_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Victory",
+				"defindex": 6006,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Victory Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Victory",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_victory",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_victory.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_victory_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Militia",
+				"defindex": 6007,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Militia Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Militia",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_militia",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_militia.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_militia_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Nuke",
+				"defindex": 6008,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Nuke Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Nuke",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_nuke",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_nuke.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_nuke_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Train",
+				"defindex": 6009,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Train Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Train",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_train",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_train.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_train_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Guardian",
+				"defindex": 6010,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Guardian Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Guardian",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_guardian",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_guardian.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_guardian_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			},
+			{
+				"name": "Collectible Pin - Tactics",
+				"defindex": 6011,
+				"item_class": "collectible_item",
+				"item_type_name": "Colecionável",
+				"item_name": "Tactics Pin",
+				"item_description": "CS:GO event attendance collection pin - Series 1 - Tactics",
+				"proper_name": false,
+				"item_quality": 1,
+				"image_inventory": "econ/status_icons/collectible_pin_tactics",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_tactics.fe39aaca61b36fdffef9082976b3e0a01740849b.png",
+				"image_url_large": "http://media.steampowered.com/apps/730/icons/econ/status_icons/collectible_pin_tactics_large.f1ebf522f7ca289c3e08cb609417705e254bcb9b.png",
+				"craft_class": "collectable",
+				"craft_material_type": "tool",
+				"attributes": [
+
+				]
+				
+			}
+		]
+		,
+		"attributes": [
+			{
+				"name": "always tradable",
+				"defindex": 1,
+				"attribute_class": "always_tradable",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "cannot trade",
+				"defindex": 2,
+				"attribute_class": "cannot_trade",
+				"effect_type": "negative",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "referenced item id low",
+				"defindex": 3,
+				"attribute_class": "referenced_item_id_low",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "referenced item id high",
+				"defindex": 4,
+				"attribute_class": "referenced_item_id_high",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "set item texture prefab",
+				"defindex": 6,
+				"attribute_class": "set_item_texture_prefab",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "set item texture seed",
+				"defindex": 7,
+				"attribute_class": "set_item_texture_seed",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "set item texture wear",
+				"defindex": 8,
+				"attribute_class": "set_item_texture_wear",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "has silencer",
+				"defindex": 10,
+				"attribute_class": "has_silencer",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "has burst mode",
+				"defindex": 13,
+				"attribute_class": "has_burst_mode",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "cycletime when in burst mode",
+				"defindex": 14,
+				"attribute_class": "cycletime_when_in_burst_mode",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "time between burst shots",
+				"defindex": 15,
+				"attribute_class": "time_between_burst_shots",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "unzoom after shot",
+				"defindex": 16,
+				"attribute_class": "unzoom_after_shot",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "cycletime when zoomed",
+				"defindex": 17,
+				"attribute_class": "cycletime_when_zoomed",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "cannot shoot underwater",
+				"defindex": 18,
+				"attribute_class": "cannot_shoot_underwater",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "in game price",
+				"defindex": 19,
+				"attribute_class": "in_game_price",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "primary clip size",
+				"defindex": 20,
+				"attribute_class": "primary_clip_size",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "secondary clip size",
+				"defindex": 21,
+				"attribute_class": "secondary_clip_size",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "is full auto",
+				"defindex": 22,
+				"attribute_class": "is_full_auto",
+				"description_string": "Attrib_FullAuto",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": false
+			},
+			{
+				"name": "heat per shot",
+				"defindex": 23,
+				"attribute_class": "heat_per_shot",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "addon scale",
+				"defindex": 24,
+				"attribute_class": "addon_scale",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "tracer frequency",
+				"defindex": 25,
+				"attribute_class": "tracer_frequency",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "max player speed",
+				"defindex": 26,
+				"attribute_class": "max_player_speed",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "max player speed alt",
+				"defindex": 27,
+				"attribute_class": "max_player_speed_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "armor ratio",
+				"defindex": 28,
+				"attribute_class": "armor_ratio",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "crosshair min distance",
+				"defindex": 29,
+				"attribute_class": "crosshair_min_distance",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "crosshair delta distance",
+				"defindex": 30,
+				"attribute_class": "crosshair_delta_distance",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "penetration",
+				"defindex": 31,
+				"attribute_class": "penetration",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "damage",
+				"defindex": 32,
+				"attribute_class": "damage",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "range",
+				"defindex": 33,
+				"attribute_class": "range",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "range modifier",
+				"defindex": 34,
+				"attribute_class": "range_modifier",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "bullets",
+				"defindex": 35,
+				"attribute_class": "bullets",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "cycletime",
+				"defindex": 36,
+				"attribute_class": "cycletime",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "time to idle",
+				"defindex": 37,
+				"attribute_class": "time_to_idle",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "idle interval",
+				"defindex": 38,
+				"attribute_class": "idle interval",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "flinch velocity modifier large",
+				"defindex": 39,
+				"attribute_class": "flinch_velocity_modifier_large",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "flinch velocity modifier small",
+				"defindex": 40,
+				"attribute_class": "flinch velocity modifier small",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "spread",
+				"defindex": 41,
+				"attribute_class": "spread",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy crouch",
+				"defindex": 42,
+				"attribute_class": "inaccuracy_crouch",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy stand",
+				"defindex": 43,
+				"attribute_class": "inaccuracy_stand",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy jump",
+				"defindex": 44,
+				"attribute_class": "inaccuracy_jump",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy land",
+				"defindex": 45,
+				"attribute_class": "inaccuracy_land",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy ladder",
+				"defindex": 46,
+				"attribute_class": "inaccuracy_ladder",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy fire",
+				"defindex": 47,
+				"attribute_class": "inaccuracy_fire",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy move",
+				"defindex": 48,
+				"attribute_class": "inaccuracy_move",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "spread alt",
+				"defindex": 49,
+				"attribute_class": "spread_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy crouch alt",
+				"defindex": 50,
+				"attribute_class": "inaccuracy_crouch_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy stand alt",
+				"defindex": 51,
+				"attribute_class": "inaccuracy_stand_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy jump alt",
+				"defindex": 52,
+				"attribute_class": "inaccuracy_jump_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy land alt",
+				"defindex": 53,
+				"attribute_class": "inaccuracy_land_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy ladder alt",
+				"defindex": 54,
+				"attribute_class": "inaccuracy_ladder_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy fire alt",
+				"defindex": 55,
+				"attribute_class": "inaccuracy_fire_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "inaccuracy move alt",
+				"defindex": 56,
+				"attribute_class": "inaccuracy_move_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recovery time crouch",
+				"defindex": 57,
+				"attribute_class": "recovery_time_crouch",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recovery time stand",
+				"defindex": 58,
+				"attribute_class": "recovery_time_stand",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil seed",
+				"defindex": 59,
+				"attribute_class": "recoil_seed",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil angle",
+				"defindex": 60,
+				"attribute_class": "recoil_angle",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil angle variance",
+				"defindex": 61,
+				"attribute_class": "recoil_angle_variance",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil magnitude",
+				"defindex": 62,
+				"attribute_class": "recoil_magnitude",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil magnitude variance",
+				"defindex": 63,
+				"attribute_class": "recoil_magnitude_variance",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil angle alt",
+				"defindex": 64,
+				"attribute_class": "recoil_angle_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil angle variance alt",
+				"defindex": 65,
+				"attribute_class": "recoil_angle_variance_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil magnitude alt",
+				"defindex": 66,
+				"attribute_class": "recoil_magnitude_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recoil magnitude variance alt",
+				"defindex": 67,
+				"attribute_class": "recoil_magnitude_variance_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "set supply crate series",
+				"defindex": 68,
+				"attribute_class": "supply_crate_series",
+				"description_string": "Série nº %s1",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "minutes played",
+				"defindex": 69,
+				"attribute_class": "minutes_played",
+				"description_string": "Tempo de jogo na operação: %s1",
+				"description_format": "value_is_mins_as_hours",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": false
+			},
+			{
+				"name": "alternate icon",
+				"defindex": 70,
+				"attribute_class": "alternate_icon",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "season access",
+				"defindex": 71,
+				"attribute_class": "season_access",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "disallow recycling",
+				"defindex": 72,
+				"attribute_class": "disallow_recycling",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "tradable after date",
+				"defindex": 75,
+				"attribute_class": "tradable_after_date",
+				"effect_type": "negative",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "postpone fire",
+				"defindex": 76,
+				"attribute_class": "postpone_fire",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "has bullet altfire",
+				"defindex": 77,
+				"attribute_class": "has_bullet_altfire",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "elevate quality",
+				"defindex": 78,
+				"attribute_class": "set_elevated_quality",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "cycletime alt",
+				"defindex": 79,
+				"attribute_class": "cycletime_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "kill eater",
+				"defindex": 80,
+				"attribute_class": "kill_eater",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater score type",
+				"defindex": 81,
+				"attribute_class": "kill_eater_score_type",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater user 1",
+				"defindex": 82,
+				"attribute_class": "kill_eater_user_1",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater user score type 1",
+				"defindex": 83,
+				"attribute_class": "kill_eater_user_score_type_1",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater user 2",
+				"defindex": 84,
+				"attribute_class": "kill_eater_user_2",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater user score type 2",
+				"defindex": 85,
+				"attribute_class": "kill_eater_user_score_type_2",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater user 3",
+				"defindex": 86,
+				"attribute_class": "kill_eater_user_3",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater user score type 3",
+				"defindex": 87,
+				"attribute_class": "kill_eater_user_score_type_3",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater 2",
+				"defindex": 88,
+				"attribute_class": "kill_eater_2",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "kill eater score type 2",
+				"defindex": 89,
+				"attribute_class": "kill_eater_score_type_2",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "tracer frequency alt",
+				"defindex": 92,
+				"attribute_class": "tracer_frequency_alt",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "primary default clip size",
+				"defindex": 93,
+				"attribute_class": "primary_default_clip_size",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "secondary default clip size",
+				"defindex": 94,
+				"attribute_class": "secondary_default_clip_size",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "recipe filter",
+				"defindex": 95,
+				"attribute_class": "recipe_filter",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "competitive kills",
+				"defindex": 97,
+				"attribute_class": "competitive_kills",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "competitive 3k",
+				"defindex": 98,
+				"attribute_class": "competitive_3k",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "competitive 4k",
+				"defindex": 99,
+				"attribute_class": "competitive_4k",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "competitive 5k",
+				"defindex": 101,
+				"attribute_class": "competitive_5k",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "competitive hsp",
+				"defindex": 102,
+				"attribute_class": "competitive_hsp",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "competitive wins",
+				"defindex": 103,
+				"attribute_class": "competitive_wins",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "competitive mvps",
+				"defindex": 104,
+				"attribute_class": "competitive_mvps",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "competitive minutes played",
+				"defindex": 105,
+				"attribute_class": "competitive_minutes_played",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "match wins",
+				"defindex": 106,
+				"attribute_class": "match_wins",
+				"description_string": "Vitórias competitivas em mapas da Operação: %s1",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "preferred sort",
+				"defindex": 107,
+				"attribute_class": "preferred_sort",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "custom name attr",
+				"defindex": 111,
+				"attribute_class": "custom_name_attr",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "custom desc attr",
+				"defindex": 112,
+				"attribute_class": "custom_desc_attr",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 0 id",
+				"defindex": 113,
+				"attribute_class": "sticker_slot_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "sticker slot 0 wear",
+				"defindex": 114,
+				"attribute_class": "sticker_slot_wear",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 0 scale",
+				"defindex": 115,
+				"attribute_class": "sticker_slot_scale",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 0 rotation",
+				"defindex": 116,
+				"attribute_class": "sticker_slot_rotation",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 1 id",
+				"defindex": 117,
+				"attribute_class": "sticker_slot_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "sticker slot 1 wear",
+				"defindex": 118,
+				"attribute_class": "sticker_slot_wear",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 1 scale",
+				"defindex": 119,
+				"attribute_class": "sticker_slot_scale",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 1 rotation",
+				"defindex": 120,
+				"attribute_class": "sticker_slot_rotation",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 2 id",
+				"defindex": 121,
+				"attribute_class": "sticker_slot_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "sticker slot 2 wear",
+				"defindex": 122,
+				"attribute_class": "sticker_slot_wear",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 2 scale",
+				"defindex": 123,
+				"attribute_class": "sticker_slot_scale",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 2 rotation",
+				"defindex": 124,
+				"attribute_class": "sticker_slot_rotation",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 3 id",
+				"defindex": 125,
+				"attribute_class": "sticker_slot_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "sticker slot 3 wear",
+				"defindex": 126,
+				"attribute_class": "sticker_slot_wear",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 3 scale",
+				"defindex": 127,
+				"attribute_class": "sticker_slot_scale",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 3 rotation",
+				"defindex": 128,
+				"attribute_class": "sticker_slot_rotation",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 4 id",
+				"defindex": 129,
+				"attribute_class": "sticker_slot_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "sticker slot 4 wear",
+				"defindex": 130,
+				"attribute_class": "sticker_slot_wear",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 4 scale",
+				"defindex": 131,
+				"attribute_class": "sticker_slot_scale",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 4 rotation",
+				"defindex": 132,
+				"attribute_class": "sticker_slot_rotation",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 5 id",
+				"defindex": 133,
+				"attribute_class": "sticker_slot_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "sticker slot 5 wear",
+				"defindex": 134,
+				"attribute_class": "sticker_slot_wear",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 5 scale",
+				"defindex": 135,
+				"attribute_class": "sticker_slot_scale",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "sticker slot 5 rotation",
+				"defindex": 136,
+				"attribute_class": "sticker_slot_rotation",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "tournament event id",
+				"defindex": 137,
+				"attribute_class": "tournament_event_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "tournament event stage id",
+				"defindex": 138,
+				"attribute_class": "tournament_event_stage_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "tournament event team0 id",
+				"defindex": 139,
+				"attribute_class": "tournament_event_team_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "tournament event team1 id",
+				"defindex": 140,
+				"attribute_class": "tournament_event_team_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "icon display model",
+				"defindex": 142,
+				"attribute_class": "icon_display_model",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "buymenu display model",
+				"defindex": 143,
+				"attribute_class": "buymenu_display_model",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "pedestal display model",
+				"defindex": 144,
+				"attribute_class": "pedestal_display_model",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "magazine model",
+				"defindex": 145,
+				"attribute_class": "magazine_model",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "uid model",
+				"defindex": 146,
+				"attribute_class": "uid_model",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "stattrak model",
+				"defindex": 147,
+				"attribute_class": "stattrak_model",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight capable",
+				"defindex": 150,
+				"attribute_class": "aimsight_capable",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "aimsight eye pos",
+				"defindex": 151,
+				"attribute_class": "aimsight_eye_pos",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight pivot angle",
+				"defindex": 154,
+				"attribute_class": "aimsight_pivot_angle",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight speed up",
+				"defindex": 157,
+				"attribute_class": "aimsight_speed_up",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight speed down",
+				"defindex": 158,
+				"attribute_class": "aimsight_speed_down",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight looseness",
+				"defindex": 159,
+				"attribute_class": "aimsight_looseness",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight fov",
+				"defindex": 160,
+				"attribute_class": "aimsight_fov",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "aimsight pivot forward",
+				"defindex": 161,
+				"attribute_class": "aimsight_pivot_forward",
+				"effect_type": "neutral",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "gifter account id",
+				"defindex": 162,
+				"attribute_class": "gifter_account_id",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "aimsight lens mask",
+				"defindex": 165,
+				"attribute_class": "aimsight_lens_mask",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "quests complete",
+				"defindex": 171,
+				"attribute_class": "quests_complete",
+				"description_string": "Operation Missions Fulfilled: %s1",
+				"description_format": "value_is_additive",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation kills",
+				"defindex": 172,
+				"attribute_class": "operation_kills",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation 3k",
+				"defindex": 173,
+				"attribute_class": "operation_3k",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation 4k",
+				"defindex": 174,
+				"attribute_class": "operation_4k",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation 5k",
+				"defindex": 175,
+				"attribute_class": "operation_5k",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation hsp",
+				"defindex": 176,
+				"attribute_class": "operation_hsp",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "operation mvps",
+				"defindex": 177,
+				"attribute_class": "operation_mvps",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation minutes played",
+				"defindex": 178,
+				"attribute_class": "operation_minutes_played",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "operation wins",
+				"defindex": 179,
+				"attribute_class": "operation_wins",
+				"effect_type": "positive",
+				"hidden": true,
+				"stored_as_integer": true
+			},
+			{
+				"name": "deployment date",
+				"defindex": 180,
+				"attribute_class": "deployment_date",
+				"description_string": "Data de Recrutamento: %s1",
+				"description_format": "value_is_date",
+				"effect_type": "positive",
+				"hidden": false,
+				"stored_as_integer": true
+			},
+			{
+				"name": "use after date",
+				"defindex": 182,
+				"attribute_class": "use_after_date",
+				"effect_type": "negative",
+				"hidden": true,
+				"stored_as_integer": true
+			}
+		]
+		,
+		"item_sets": [
+			{
+				"item_set": "set_assault",
+				"name": "A Coleção Assault",
+				"items": [
+					"weapon_ump45",
+					"weapon_sg556",
+					"weapon_fiveseven",
+					"weapon_negev",
+					"weapon_aug",
+					"weapon_glock",
+					"weapon_mp9"
+				]
+				
+			},
+			{
+				"item_set": "set_aztec",
+				"name": "A Coleção Aztec",
+				"items": [
+					"weapon_nova",
+					"weapon_ssg08",
+					"weapon_fiveseven",
+					"weapon_m4a1",
+					"weapon_ak47",
+					"weapon_tec9"
+				]
+				
+			},
+			{
+				"item_set": "set_baggage",
+				"name": "A Coleção Baggage",
+				"items": [
+					"weapon_g3sg1",
+					"weapon_ssg08",
+					"weapon_mp7",
+					"weapon_mp9",
+					"weapon_cz75a",
+					"weapon_p90",
+					"weapon_mac10",
+					"weapon_hkp2000",
+					"weapon_sg556",
+					"weapon_sawedoff",
+					"weapon_xm1014",
+					"weapon_usp_silencer",
+					"weapon_ak47",
+					"weapon_deagle",
+					"weapon_ak47"
+				]
+				
+			},
+			{
+				"item_set": "set_bank",
+				"name": "A Coleção Bank",
+				"items": [
+					"weapon_mp7",
+					"weapon_sawedoff",
+					"weapon_tec9",
+					"weapon_negev",
+					"weapon_sg556",
+					"weapon_mac10",
+					"weapon_ump45",
+					"weapon_glock",
+					"weapon_g3sg1",
+					"weapon_nova",
+					"weapon_deagle",
+					"weapon_galilar",
+					"weapon_cz75a",
+					"weapon_ak47",
+					"weapon_p250"
+				]
+				
+			},
+			{
+				"item_set": "set_bravo_i",
+				"name": "A Coleção Bravo",
+				"items": [
+					"weapon_sg556",
+					"weapon_elite",
+					"weapon_nova",
+					"weapon_galilar",
+					"weapon_ump45",
+					"weapon_g3sg1",
+					"weapon_usp_silencer",
+					"weapon_m4a1",
+					"weapon_mac10",
+					"weapon_m4a1_silencer",
+					"weapon_p90",
+					"weapon_hkp2000",
+					"weapon_awp",
+					"weapon_ak47",
+					"weapon_deagle"
+				]
+				
+			},
+			{
+				"item_set": "set_bravo_ii",
+				"name": "A Coleção Alfa",
+				"items": [
+					"weapon_mp9",
+					"weapon_m249",
+					"weapon_xm1014",
+					"weapon_tec9",
+					"weapon_mp7",
+					"weapon_fiveseven",
+					"weapon_ssg08",
+					"weapon_negev",
+					"weapon_sawedoff",
+					"weapon_p250",
+					"weapon_glock",
+					"weapon_aug",
+					"weapon_mag7",
+					"weapon_bizon",
+					"weapon_famas",
+					"weapon_scar20"
+				]
+				
+			},
+			{
+				"item_set": "set_cobblestone",
+				"name": "A Coleção Cobblestone",
+				"items": [
+					"weapon_p90",
+					"weapon_scar20",
+					"weapon_elite",
+					"weapon_mac10",
+					"weapon_ump45",
+					"weapon_mag7",
+					"weapon_nova",
+					"weapon_sawedoff",
+					"weapon_usp_silencer",
+					"weapon_hkp2000",
+					"weapon_mp9",
+					"weapon_cz75a",
+					"weapon_deagle",
+					"weapon_m4a1_silencer",
+					"weapon_awp"
+				]
+				
+			},
+			{
+				"item_set": "set_community_1",
+				"name": "A Coleção da Ofensiva de Fim de Ano",
+				"items": [
+					"weapon_galilar",
+					"weapon_fiveseven",
+					"weapon_m249",
+					"weapon_bizon",
+					"weapon_famas",
+					"weapon_elite",
+					"weapon_mp9",
+					"weapon_nova",
+					"weapon_m4a1_silencer",
+					"weapon_p250",
+					"weapon_awp",
+					"weapon_m4a1",
+					"weapon_sawedoff"
+				]
+				
+			},
+			{
+				"item_set": "set_community_2",
+				"name": "A Coleção Fênix",
+				"items": [
+					"weapon_ump45",
+					"weapon_negev",
+					"weapon_tec9",
+					"weapon_mag7",
+					"weapon_mac10",
+					"weapon_sg556",
+					"weapon_famas",
+					"weapon_usp_silencer",
+					"weapon_ak47",
+					"weapon_p90",
+					"weapon_nova",
+					"weapon_awp",
+					"weapon_aug"
+				]
+				
+			},
+			{
+				"item_set": "set_community_3",
+				"name": "A Coleção do Caçador",
+				"items": [
+					"weapon_tec9",
+					"weapon_ssg08",
+					"weapon_elite",
+					"weapon_galilar",
+					"weapon_p90",
+					"weapon_cz75a",
+					"weapon_cz75a",
+					"weapon_p90",
+					"weapon_hkp2000",
+					"weapon_aug",
+					"weapon_bizon",
+					"weapon_mac10",
+					"weapon_xm1014",
+					"weapon_mac10",
+					"weapon_m4a1_silencer",
+					"weapon_scar20",
+					"weapon_usp_silencer",
+					"weapon_usp_silencer",
+					"weapon_ak47",
+					"weapon_m4a1"
+				]
+				
+			},
+			{
+				"item_set": "set_community_4",
+				"name": "A Coleção Libertação",
+				"items": [
+					"weapon_mp7",
+					"weapon_negev",
+					"weapon_hkp2000",
+					"weapon_ssg08",
+					"weapon_ump45",
+					"weapon_bizon",
+					"weapon_cz75a",
+					"weapon_nova",
+					"weapon_p250",
+					"weapon_deagle",
+					"weapon_fiveseven",
+					"weapon_glock",
+					"weapon_p90",
+					"weapon_m4a1_silencer"
+				]
+				
+			},
+			{
+				"item_set": "set_dust",
+				"name": "A Coleção Dust",
+				"items": [
+					"weapon_m4a1",
+					"weapon_scar20",
+					"weapon_ak47",
+					"weapon_aug",
+					"weapon_awp",
+					"weapon_sawedoff",
+					"weapon_deagle",
+					"weapon_hkp2000",
+					"weapon_glock"
+				]
+				
+			},
+			{
+				"item_set": "set_dust_2",
+				"name": "A Coleção Dust 2",
+				"items": [
+					"weapon_g3sg1",
+					"weapon_p250",
+					"weapon_scar20",
+					"weapon_p90",
+					"weapon_mp9",
+					"weapon_nova",
+					"weapon_sawedoff",
+					"weapon_ak47",
+					"weapon_fiveseven",
+					"weapon_mac10",
+					"weapon_tec9",
+					"weapon_bizon",
+					"weapon_m4a1_silencer",
+					"weapon_sg556",
+					"weapon_hkp2000"
+				]
+				
+			},
+			{
+				"item_set": "set_esports",
+				"name": "A Coleção de eSports – 2013",
+				"items": [
+					"weapon_m4a1",
+					"weapon_mag7",
+					"weapon_famas",
+					"weapon_galilar",
+					"weapon_sawedoff",
+					"weapon_p250",
+					"weapon_ak47",
+					"weapon_awp",
+					"weapon_p90"
+				]
+				
+			},
+			{
+				"item_set": "set_esports_ii",
+				"name": "A Coleção de eSports de Fim de Ano",
+				"items": [
+					"weapon_galilar",
+					"weapon_fiveseven",
+					"weapon_bizon",
+					"weapon_nova",
+					"weapon_g3sg1",
+					"weapon_p250",
+					"weapon_ak47",
+					"weapon_p90",
+					"weapon_famas",
+					"weapon_awp",
+					"weapon_deagle",
+					"weapon_m4a1"
+				]
+				
+			},
+			{
+				"item_set": "set_esports_iii",
+				"name": "The eSports 2014 Summer Collection",
+				"items": [
+					"weapon_ssg08",
+					"weapon_mac10",
+					"weapon_usp_silencer",
+					"weapon_cz75a",
+					"weapon_negev",
+					"weapon_xm1014",
+					"weapon_bizon",
+					"weapon_p90",
+					"weapon_mp7",
+					"weapon_glock",
+					"weapon_deagle",
+					"weapon_aug",
+					"weapon_nova",
+					"weapon_awp",
+					"weapon_hkp2000",
+					"weapon_m4a1",
+					"weapon_ak47"
+				]
+				
+			},
+			{
+				"item_set": "set_inferno",
+				"name": "A Coleção Inferno",
+				"items": [
+					"weapon_mag7",
+					"weapon_nova",
+					"weapon_p250",
+					"weapon_m4a1",
+					"weapon_elite",
+					"weapon_tec9"
+				]
+				
+			},
+			{
+				"item_set": "set_italy",
+				"name": "A Coleção Italy",
+				"items": [
+					"weapon_tec9",
+					"weapon_aug",
+					"weapon_famas",
+					"weapon_nova",
+					"weapon_bizon",
+					"weapon_nova",
+					"weapon_ump45",
+					"weapon_hkp2000",
+					"weapon_elite",
+					"weapon_m4a1_silencer",
+					"weapon_xm1014",
+					"weapon_glock",
+					"weapon_mp7",
+					"weapon_sawedoff",
+					"weapon_awp"
+				]
+				
+			},
+			{
+				"item_set": "set_lake",
+				"name": "A Coleção Lake",
+				"items": [
+					"weapon_p250",
+					"weapon_xm1014",
+					"weapon_aug",
+					"weapon_galilar",
+					"weapon_sg556",
+					"weapon_g3sg1",
+					"weapon_xm1014",
+					"weapon_awp",
+					"weapon_deagle",
+					"weapon_famas",
+					"weapon_bizon",
+					"weapon_sg556",
+					"weapon_usp_silencer",
+					"weapon_p90",
+					"weapon_elite"
+				]
+				
+			},
+			{
+				"item_set": "set_militia",
+				"name": "A Coleção Militia",
+				"items": [
+					"weapon_bizon",
+					"weapon_xm1014",
+					"weapon_mac10",
+					"weapon_hkp2000",
+					"weapon_bizon",
+					"weapon_nova",
+					"weapon_p250",
+					"weapon_nova",
+					"weapon_xm1014",
+					"weapon_m4a1",
+					"weapon_scar20"
+				]
+				
+			},
+			{
+				"item_set": "set_mirage",
+				"name": "A Coleção Mirage",
+				"items": [
+					"weapon_p250",
+					"weapon_fiveseven",
+					"weapon_aug",
+					"weapon_g3sg1",
+					"weapon_p90",
+					"weapon_galilar",
+					"weapon_glock",
+					"weapon_mp7",
+					"weapon_ssg08",
+					"weapon_negev",
+					"weapon_sg556",
+					"weapon_mp9",
+					"weapon_ump45",
+					"weapon_mac10",
+					"weapon_mag7"
+				]
+				
+			},
+			{
+				"item_set": "set_nuke",
+				"name": "A Coleção Nuke",
+				"items": [
+					"weapon_bizon",
+					"weapon_mag7",
+					"weapon_sawedoff",
+					"weapon_p90",
+					"weapon_ump45",
+					"weapon_xm1014",
+					"weapon_m4a1",
+					"weapon_p250",
+					"weapon_tec9"
+				]
+				
+			},
+			{
+				"item_set": "set_office",
+				"name": "A Coleção Office",
+				"items": [
+					"weapon_famas",
+					"weapon_g3sg1",
+					"weapon_m249",
+					"weapon_galilar",
+					"weapon_hkp2000",
+					"weapon_mp7"
+				]
+				
+			},
+			{
+				"item_set": "set_overpass",
+				"name": "A Coleção Overpass",
+				"items": [
+					"weapon_m249",
+					"weapon_mag7",
+					"weapon_mp9",
+					"weapon_sawedoff",
+					"weapon_ump45",
+					"weapon_mp7",
+					"weapon_deagle",
+					"weapon_glock",
+					"weapon_hkp2000",
+					"weapon_xm1014",
+					"weapon_ssg08",
+					"weapon_cz75a",
+					"weapon_awp",
+					"weapon_usp_silencer",
+					"weapon_m4a1_silencer"
+				]
+				
+			},
+			{
+				"item_set": "set_safehouse",
+				"name": "A Coleção Safehouse",
+				"items": [
+					"weapon_elite",
+					"weapon_scar20",
+					"weapon_ssg08",
+					"weapon_tec9",
+					"weapon_mp7",
+					"weapon_usp_silencer",
+					"weapon_aug",
+					"weapon_mp9",
+					"weapon_g3sg1",
+					"weapon_galilar",
+					"weapon_m249",
+					"weapon_famas",
+					"weapon_fiveseven",
+					"weapon_ssg08",
+					"weapon_m4a1_silencer"
+				]
+				
+			},
+			{
+				"item_set": "set_train",
+				"name": "A Coleção Train",
+				"items": [
+					"weapon_ump45",
+					"weapon_elite",
+					"weapon_g3sg1",
+					"weapon_fiveseven",
+					"weapon_nova",
+					"weapon_bizon",
+					"weapon_mac10",
+					"weapon_m4a1",
+					"weapon_mag7",
+					"weapon_p250",
+					"weapon_scar20",
+					"weapon_p90",
+					"weapon_deagle",
+					"weapon_sawedoff",
+					"weapon_tec9"
+				]
+				
+			},
+			{
+				"item_set": "set_vertigo",
+				"name": "A Coleção Vertigo",
+				"items": [
+					"weapon_mac10",
+					"weapon_xm1014",
+					"weapon_bizon",
+					"weapon_p90",
+					"weapon_ak47",
+					"weapon_elite"
+				]
+				
+			},
+			{
+				"item_set": "set_weapons_i",
+				"name": "A Coleção do Negócio Bélico",
+				"items": [
+					"weapon_mp7",
+					"weapon_aug",
+					"weapon_sg556",
+					"weapon_glock",
+					"weapon_usp_silencer",
+					"weapon_m4a1_silencer",
+					"weapon_ak47",
+					"weapon_deagle",
+					"weapon_awp"
+				]
+				
+			},
+			{
+				"item_set": "set_weapons_ii",
+				"name": "A 2ª Coleção do Negócio Bélico",
+				"items": [
+					"weapon_tec9",
+					"weapon_m4a1_silencer",
+					"weapon_famas",
+					"weapon_p250",
+					"weapon_scar20",
+					"weapon_fiveseven",
+					"weapon_mp9",
+					"weapon_nova",
+					"weapon_elite",
+					"weapon_p90",
+					"weapon_usp_silencer",
+					"weapon_ssg08"
+				]
+				
+			},
+			{
+				"item_set": "set_weapons_iii",
+				"name": "A 3ª Coleção do Negócio Bélico",
+				"items": [
+					"weapon_cz75a",
+					"weapon_hkp2000",
+					"weapon_elite",
+					"weapon_usp_silencer",
+					"weapon_glock",
+					"weapon_cz75a",
+					"weapon_tec9",
+					"weapon_deagle",
+					"weapon_fiveseven",
+					"weapon_cz75a",
+					"weapon_p250",
+					"weapon_cz75a"
+				]
+				
+			}
+		]
+		,
+		"attribute_controlled_attached_particles": [
+
+		]
+		,
+		"item_levels": [
+			{
+				"name": "KillEaterRank",
+				"levels": [
+					{
+						"level": 0,
+						"required_score": 2,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 1,
+						"required_score": 4,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 2,
+						"required_score": 6,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 3,
+						"required_score": 8,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 4,
+						"required_score": 10,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 5,
+						"required_score": 12,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 6,
+						"required_score": 14,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 7,
+						"required_score": 16,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 8,
+						"required_score": 18,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 9,
+						"required_score": 20,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 10,
+						"required_score": 22,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 11,
+						"required_score": 24,
+						"name": "StatTrak™"
+					},
+					{
+						"level": 12,
+						"required_score": 26,
+						"name": "StatTrak™"
+					}
+				]
+				
+			}
+		]
+		,
+		"kill_eater_ranks": [
+			{
+				"level": 0,
+				"required_score": 2,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 1,
+				"required_score": 4,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 2,
+				"required_score": 6,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 3,
+				"required_score": 8,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 4,
+				"required_score": 10,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 5,
+				"required_score": 12,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 6,
+				"required_score": 14,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 7,
+				"required_score": 16,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 8,
+				"required_score": 18,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 9,
+				"required_score": 20,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 10,
+				"required_score": 22,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 11,
+				"required_score": 24,
+				"name": "StatTrak™"
+			},
+			{
+				"level": 12,
+				"required_score": 26,
+				"name": "StatTrak™"
+			}
+		]
+		,
+		"kill_eater_score_types": [
+			{
+				"type": 0,
+				"type_name": "Mortes confirmadas via StatTrak™"
+			}
+		]
+		
+	}
+}
