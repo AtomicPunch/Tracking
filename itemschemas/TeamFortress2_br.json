@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.f63e10d331d1fb91fc81fee238c7a2226e76158b.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.8436e201bf6293485a6d7af917a6378f6464b3c5.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -4601,7 +4601,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Chapéu",
 				"item_name": "Conjunto Nobre de Chapéus",
-				"item_description": "Para o Cavalheiro que acredita que até o seu chapéu merece um chapéu.",
+				"item_description": "Para o cavalheiro que acredita que até o seu chapéu merece um chapéu.",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/scout/hat_second_nr.mdl",
@@ -12805,7 +12805,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Chapéu",
 				"item_name": "Chapéu de Recompensa",
-				"item_description": "Obtido por completar 5 objetivos na 'Grande Caça ao Tesouro Steam'",
+				"item_description": "Obtido por completar 5 objetivos na \"Grande Caça ao Tesouro Steam\"",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/treasure_hat_01_scout.mdl",
@@ -12852,7 +12852,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Chapéu",
 				"item_name": "Chapéu do Tesouro",
-				"item_description": "Obtido por completar 15 objetivos na 'Grande Caça ao Tesouro Steam'",
+				"item_description": "Obtido por completar 15 objetivos na \"Grande Caça ao Tesouro Steam\"",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/treasure_hat_02_scout.mdl",
@@ -12908,7 +12908,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Chapéu",
 				"item_name": "Chapéu de Riqueza e Respeito Indiscutíveis",
-				"item_description": "Obtido por completar 28 objetivos na 'Grande Caça ao Tesouro Steam'. Cuidado com o cadeado do Cefalópode.",
+				"item_description": "Obtido por completar 28 objetivos na \"Grande Caça ao Tesouro Steam\". Cuidado com o cadeado do cefalópode.",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/scout/treasure_hat_oct.mdl",
@@ -40449,7 +40449,7 @@
 				"defindex": 948,
 				"item_class": "tf_wearable",
 				"item_type_name": "Pato",
-				"item_name": "O Al Patino",
+				"item_name": "Al Patino",
 				"item_description": "Toda vez que você dava um pedaço de pão a um pato, estava financiando a Máfia dos Patos. Você é cúmplice. Não tem como voltar atrás. Pegue este pato, vá para a esquina na 43rd e entre no Cadillac preto. Quando você encontrar o Don, não faça piadas sobre cabeças de cavalos. Ele odeia quando fazem isso.",
 				"proper_name": true,
 				"item_slot": "misc",
@@ -54093,11 +54093,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 7511618
@@ -54142,11 +54137,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54193,11 +54183,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 5322826
@@ -54242,11 +54227,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54293,11 +54273,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 8208497
@@ -54342,11 +54317,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54393,11 +54363,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 10843461
@@ -54442,11 +54407,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54493,11 +54453,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 6901050
@@ -54542,11 +54497,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54593,11 +54543,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 15185211
@@ -54642,11 +54587,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54693,11 +54633,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 15132390
@@ -54742,11 +54677,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -54838,14 +54768,6 @@
 				},
 				"used_by_classes": [
 
-				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
 				]
 				
 			},
@@ -55009,11 +54931,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 12073019
@@ -55105,14 +55022,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -55187,11 +55096,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 16738740
@@ -55236,11 +55140,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -55287,11 +55186,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 8421376
@@ -55336,11 +55230,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -55387,11 +55276,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 15787660
@@ -55436,11 +55320,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -55531,11 +55410,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 4732984
@@ -55584,11 +55458,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -55639,11 +55508,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 3874595
@@ -55692,11 +55556,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -55747,11 +55606,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 8400928
@@ -55800,11 +55654,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -55896,14 +55745,6 @@
 				},
 				"used_by_classes": [
 
-				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
 				]
 				
 			},
@@ -56077,14 +55918,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -56120,14 +55953,6 @@
 				},
 				"used_by_classes": [
 
-				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
 				]
 				
 			},
@@ -56251,11 +56076,6 @@
 				,
 				"attributes": [
 					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
-					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
 						"value": 12377523
@@ -56300,11 +56120,6 @@
 				]
 				,
 				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					},
 					{
 						"name": "set item tint RGB",
 						"class": "set_item_tint_rgb",
@@ -56392,14 +56207,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -56480,14 +56287,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -56522,14 +56321,6 @@
 				},
 				"used_by_classes": [
 
-				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
 				]
 				
 			},
@@ -56690,14 +56481,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "is marketable",
-						"class": "is_marketable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -56732,14 +56515,6 @@
 				},
 				"used_by_classes": [
 
-				]
-				,
-				"attributes": [
-					{
-						"name": "is marketable",
-						"class": "is_marketable",
-						"value": 1
-					}
 				]
 				
 			},
@@ -57938,14 +57713,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -58070,14 +57837,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
-				]
 				
 			},
 			{
@@ -58113,14 +57872,6 @@
 				},
 				"used_by_classes": [
 
-				]
-				,
-				"attributes": [
-					{
-						"name": "always tradable",
-						"class": "always_tradable",
-						"value": 1
-					}
 				]
 				
 			},
@@ -58242,10 +57993,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -58425,10 +58172,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -58513,10 +58256,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -58605,10 +58344,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -58693,10 +58428,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -58785,10 +58516,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -58873,10 +58600,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -58965,10 +58688,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -59055,10 +58774,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -59143,10 +58858,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -59668,10 +59379,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -59707,10 +59414,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -59792,10 +59495,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -59922,10 +59621,6 @@
 				"used_by_classes": [
 
 				]
-				,
-				"attributes": [
-
-				]
 				
 			},
 			{
@@ -59960,10 +59655,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -60089,10 +59780,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -61001,10 +60688,6 @@
 					}
 				},
 				"used_by_classes": [
-
-				]
-				,
-				"attributes": [
 
 				]
 				
@@ -64055,7 +63738,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Platinum Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64102,7 +63785,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Platinum Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64149,7 +63832,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Platinum Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -64196,7 +63879,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar  - UGC Highlander Platinum Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64243,7 +63926,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar  - UGC Highlander Platinum Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64290,7 +63973,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar  - UGC Highlander Platinum Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -64337,7 +64020,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar  - UGC Highlander Platinum Sul-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64384,7 +64067,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar  - UGC Highlander Platinum Sul-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64431,7 +64114,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar  - UGC Highlander Platinum Sul-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -64478,7 +64161,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Silver Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64525,7 +64208,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Silver Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64572,7 +64255,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Silver Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -64619,7 +64302,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Silver Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64666,7 +64349,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Silver Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64713,7 +64396,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Silver Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -64760,7 +64443,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Steel Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64807,7 +64490,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Steel Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64854,7 +64537,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Steel Norte-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -64901,7 +64584,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Steel Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -64948,7 +64631,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Steel Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -64995,7 +64678,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Steel Europeu",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -65042,7 +64725,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Steel Sul-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6first.mdl",
@@ -65089,7 +64772,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Steel Sul-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6second.mdl",
@@ -65136,7 +64819,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Steel Sul-americano",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6third.mdl",
@@ -65183,7 +64866,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Platinum",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6participant.mdl",
@@ -65230,7 +64913,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Silver",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6participant.mdl",
@@ -65277,7 +64960,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Steel",
-				"item_description": "Temporada 6 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 6",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc6participant.mdl",
@@ -76585,7 +76268,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Platinum",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_first.mdl",
@@ -76632,7 +76315,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Platinum",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_second.mdl",
@@ -76679,7 +76362,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Platinum",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_third.mdl",
@@ -76726,7 +76409,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Silver",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_first.mdl",
@@ -76773,7 +76456,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Silver",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_second.mdl",
@@ -76820,7 +76503,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Silver",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_third.mdl",
@@ -76867,7 +76550,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Steel",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_first.mdl",
@@ -76914,7 +76597,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Steel",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_second.mdl",
@@ -76961,7 +76644,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Steel",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_third.mdl",
@@ -77008,7 +76691,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Iron",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_first.mdl",
@@ -77055,7 +76738,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Iron",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_second.mdl",
@@ -77102,7 +76785,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Iron",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_third.mdl",
@@ -77149,7 +76832,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_first.mdl",
@@ -77196,7 +76879,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_second.mdl",
@@ -77243,7 +76926,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_third.mdl",
@@ -77290,7 +76973,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Platinum",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_participant.mdl",
@@ -77337,7 +77020,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Silver",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_participant.mdl",
@@ -77384,7 +77067,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Steel",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_participant.mdl",
@@ -77431,7 +77114,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander",
-				"item_description": "Temporada 8 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 8",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc8_medal_participant.mdl",
@@ -77713,7 +77396,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Platinum",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_first.mdl",
@@ -77760,7 +77443,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Platinum",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_second.mdl",
@@ -77807,7 +77490,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Platinum",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_third.mdl",
@@ -77854,7 +77537,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Gold",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_first.mdl",
@@ -77901,7 +77584,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Gold",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_second.mdl",
@@ -77948,7 +77631,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Gold",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_third.mdl",
@@ -77995,7 +77678,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Silver",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_first.mdl",
@@ -78042,7 +77725,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Silver",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_second.mdl",
@@ -78089,7 +77772,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Silver",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_third.mdl",
@@ -78136,7 +77819,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Steel",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_first.mdl",
@@ -78183,7 +77866,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Steel",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_second.mdl",
@@ -78230,7 +77913,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Steel",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_third.mdl",
@@ -78277,7 +77960,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Iron",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_first.mdl",
@@ -78324,7 +78007,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Iron",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_second.mdl",
@@ -78371,7 +78054,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Iron",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_third.mdl",
@@ -78418,7 +78101,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_first.mdl",
@@ -78465,7 +78148,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_second.mdl",
@@ -78512,7 +78195,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_third.mdl",
@@ -78559,7 +78242,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Platinum",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
@@ -78606,7 +78289,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Gold",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
@@ -78653,7 +78336,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Silver",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
@@ -78700,7 +78383,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Steel",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
@@ -78747,7 +78430,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Iron",
-				"item_description": "Temporada 9 de UGC Highlander League",
+				"item_description": "UGC Highlander League - Temporada 9",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/player/items/all_class/ugc_season9_participant.mdl",
@@ -89828,7 +89511,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - Tumblr VS Reddit",
-				"item_description": "Season 2",
+				"item_description": "Temporada 2",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/tvr_medal_season2/tvr_medal_season2_demo.mdl",
@@ -89876,7 +89559,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Platinum",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_first.mdl",
@@ -89923,7 +89606,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Platinum",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_second.mdl",
@@ -89970,7 +89653,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Platinum",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_third.mdl",
@@ -90017,7 +89700,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Platinum",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_participant.mdl",
@@ -90064,7 +89747,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Gold",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_first.mdl",
@@ -90111,7 +89794,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Gold",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_second.mdl",
@@ -90158,7 +89841,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Gold",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_third.mdl",
@@ -90205,7 +89888,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Gold",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90252,7 +89935,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC Highlander Silver",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_first.mdl",
@@ -90299,7 +89982,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC Highlander Silver",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_second.mdl",
@@ -90346,7 +90029,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC Highlander Silver",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_third.mdl",
@@ -90393,7 +90076,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Silver",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90440,7 +90123,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Steel",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90487,7 +90170,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC Highlander Iron",
-				"item_description": "UGC Highlander League Season 12",
+				"item_description": "UGC Highlander League - Temporada 12",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90534,7 +90217,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Primeiro Lugar - UGC 6v6 Platinum",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_first.mdl",
@@ -90581,7 +90264,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Segundo Lugar - UGC 6v6 Platinum",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_second.mdl",
@@ -90628,7 +90311,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Terceiro Lugar - UGC 6v6 Platinum",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_third.mdl",
@@ -90675,7 +90358,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC 6vs6 Platinum",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_platinum_participant.mdl",
@@ -90721,8 +90404,8 @@
 				"defindex": 8496,
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
-				"item_name": "UGC 6vs6 Gold Participant",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_name": "Participante - UGC 6vs6 Gold",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90769,7 +90452,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC 6vs6 Silver",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90816,7 +90499,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC 6vs6 Steel",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90863,7 +90546,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
 				"item_name": "Participante - UGC 6v6 Iron",
-				"item_description": "UGC 6vs6 League Season 14",
+				"item_description": "UGC 6vs6 League - Temporada 14",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90909,8 +90592,8 @@
 				"defindex": 8500,
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
-				"item_name": "UGC 4vs4 Silver Participant",
-				"item_description": "UGC 4vs4 League Season 1",
+				"item_name": "Participante - UGC 4vs4 Silver",
+				"item_description": "UGC 4vs4 League - Temporada 1",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -90956,8 +90639,8 @@
 				"defindex": 8501,
 				"item_class": "tf_wearable",
 				"item_type_name": "Medalha de Torneio",
-				"item_name": "UGC 4vs4 Steel Participant",
-				"item_description": "UGC 4vs4 League Season 1",
+				"item_name": "Participante - UGC 4vs4 Steel",
+				"item_description": "UGC 4vs4 League - Temporada 1",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/ugc_season12/ugc_season12_participant.mdl",
@@ -94499,14 +94182,14 @@
 				},
 				"styles": [
 					{
-						"name": "No Hat",
+						"name": "Sem chapéu",
 						"additional_hidden_bodygroups": {
 							"hat": 1,
 							"headphones": 1
 						}
 					},
 					{
-						"name": "Hat"
+						"name": "Com chapéu"
 					}
 				]
 				,
@@ -97107,14 +96790,14 @@
 				},
 				"styles": [
 					{
-						"name": "No Headset",
+						"name": "Sem headset",
 						"additional_hidden_bodygroups": {
 							"hat": 1,
 							"headphones": 1
 						}
 					},
 					{
-						"name": "Headset"
+						"name": "Com headset"
 					}
 				]
 				,
@@ -99400,7 +99083,7 @@
 				"defindex": 30126,
 				"item_class": "tf_wearable",
 				"item_type_name": "Armadura Cosmética",
-				"item_name": "A Ombreira do Shogun",
+				"item_name": "A Ombreira do Xogum",
 				"item_description": "\"Da próxima vez que um marica chegar chorando no seu ombro por causa do estado do meio ambiente, mande-o afogar as mágoas com o Xogum. Este ombro tá FECHADO!\"",
 				"proper_name": true,
 				"item_slot": "misc",
@@ -111577,7 +111260,7 @@
 				"defindex": 30391,
 				"item_class": "tf_wearable",
 				"item_type_name": "Peça de Vestuário",
-				"item_name": "Sengoku Scorcher",
+				"item_name": "Xogum Chamuscado",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/pyro/short2014_sengoku_scorcher/short2014_sengoku_scorcher.mdl",
@@ -111628,7 +111311,7 @@
 				"defindex": 30392,
 				"item_class": "tf_wearable",
 				"item_type_name": "Peça de Vestuário",
-				"item_name": "Man in Slacks",
+				"item_name": "A Calça que Sabia Demais",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/soldier/short2014_man_in_slacks/short2014_man_in_slacks.mdl",
@@ -111728,7 +111411,7 @@
 				"defindex": 30394,
 				"item_class": "tf_wearable",
 				"item_type_name": "Peça de Vestuário",
-				"item_name": "Frickin' Sweet Ninja Hood",
+				"item_name": "O Capuz do Ninja Maloqueiro",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/scout/short2014_scout_ninja_mask/short2014_scout_ninja_mask.mdl",
@@ -112029,7 +111712,7 @@
 				"defindex": 30400,
 				"item_class": "tf_wearable",
 				"item_type_name": "Peça de Vestuário",
-				"item_name": "Lunatic's Leathers",
+				"item_name": "Couro Chamuscado",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/pyro/short2014_wildfire_wrappers/short2014_wildfire_wrappers.mdl",
@@ -112130,7 +111813,7 @@
 				"defindex": 30402,
 				"item_class": "tf_wearable",
 				"item_type_name": "Cinto de Utilidades",
-				"item_name": "Tools of the Trade",
+				"item_name": "Os Ossos do Ofício",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/short2014_engie_toolbelt/short2014_engie_toolbelt.mdl",
@@ -112180,7 +111863,7 @@
 				"defindex": 30403,
 				"item_class": "tf_wearable",
 				"item_type_name": "Mochila",
-				"item_name": "Joe-on-the-Go",
+				"item_name": "Macaco pra Toda Obra",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/short2014_poopyj_backpack/short2014_poopyj_backpack.mdl",
@@ -112333,7 +112016,7 @@
 				"defindex": 30406,
 				"item_class": "tf_wearable",
 				"item_type_name": "Cabelo",
-				"item_name": "Peacenik's Ponytail",
+				"item_name": "O Rabo-de-cavalo do Revolucionário",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/short2014_engineer_nerd_hair/short2014_engineer_nerd_hair.mdl",
@@ -112433,7 +112116,7 @@
 				"defindex": 30408,
 				"item_class": "tf_wearable",
 				"item_type_name": "Camisa",
-				"item_name": "Egghead's Overalls",
+				"item_name": "O Barrigão do Cabeção",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/short2014_engineer_nerd_shirt/short2014_engineer_nerd_shirt.mdl",
@@ -112483,7 +112166,7 @@
 				"defindex": 30409,
 				"item_class": "tf_wearable",
 				"item_type_name": "Sapatos",
-				"item_name": "Lonesome Loafers",
+				"item_name": "As Meias Melancólicas",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/short2014_engineer_nerd_feet/short2014_engineer_nerd_feet.mdl",
@@ -112584,7 +112267,7 @@
 				"defindex": 30411,
 				"item_class": "tf_wearable",
 				"item_type_name": "Camisa",
-				"item_name": "Au Courant Assassin",
+				"item_name": "O Assassino Antenado",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/spy/short2014_spy_ascot_vest/short2014_spy_ascot_vest.mdl",
@@ -112634,7 +112317,7 @@
 				"defindex": 30412,
 				"item_class": "tf_wearable",
 				"item_type_name": "Camisa",
-				"item_name": "Endothermic Exowear",
+				"item_name": "A Exovestimenta Endotérmica",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/engineer/short2014_endothermic_exowear/short2014_endothermic_exowear.mdl",
@@ -112776,7 +112459,7 @@
 				"defindex": 30415,
 				"item_class": "tf_wearable",
 				"item_type_name": "Pochete",
-				"item_name": "Medicine Manpurse",
+				"item_name": "A Mala Médica",
 				"proper_name": true,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/medic/short2014_medic_messenger_bag/short2014_medic_messenger_bag.mdl",
@@ -113370,7 +113053,7 @@
 				"defindex": 30427,
 				"item_class": "tf_wearable",
 				"item_type_name": "Sapatos",
-				"item_name": "Argyle Ace",
+				"item_name": "A Meia de Meia-idade",
 				"item_description": " ",
 				"proper_name": true,
 				"item_slot": "misc",
@@ -113520,7 +113203,7 @@
 				"defindex": 30430,
 				"item_class": "tf_wearable",
 				"item_type_name": "Óculos",
-				"item_name": "Seeing Double",
+				"item_name": "Visão Dobrada",
 				"item_description": " ",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -113570,7 +113253,7 @@
 				"defindex": 30431,
 				"item_class": "tf_wearable",
 				"item_type_name": "Garrafas",
-				"item_name": "Abdome de Chopp",
+				"item_name": "O Abdome Alcoólico",
 				"item_description": " ",
 				"proper_name": false,
 				"item_slot": "misc",
@@ -119540,6 +119223,14 @@
 			{
 				"name": "random drop line item footer desc",
 				"defindex": 2045,
+				"attribute_class": null,
+				"effect_type": "value_is_from_lookup_table",
+				"hidden": true,
+				"stored_as_integer": false
+			},
+			{
+				"name": "is commodity",
+				"defindex": 2046,
 				"attribute_class": null,
 				"effect_type": "value_is_from_lookup_table",
 				"hidden": true,
