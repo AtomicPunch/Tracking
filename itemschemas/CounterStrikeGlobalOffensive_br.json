@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.6a4ce391b620346dedd20d9d09f92b14488f061d.txt",
+		"items_game_url": "http://media.steampowered.com/apps/730/scripts/items/items_game.09defd2220dbd672eac77f8b4ae0a06f40a602cf.txt",
 		"qualities": {
 			"normal": 0,
 			"genuine": 1,
@@ -1580,8 +1580,8 @@
 				"defindex": 883,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_Champion",
-				"item_description": "",
+				"item_name": "Champion at ESL One Cologne 2014",
+				"item_description": "This championship trophy was awarded to the Champion at The ESL One Cologne 2014 CS:GO Championship.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_trophy_champion",
@@ -1605,8 +1605,8 @@
 				"defindex": 884,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_Finalist",
-				"item_description": "",
+				"item_name": "Finalist at ESL One Cologne 2014",
+				"item_description": "This championship trophy was awarded to the Finalist at The ESL One Cologne 2014 CS:GO Championship.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_trophy_finalist",
@@ -1630,8 +1630,8 @@
 				"defindex": 885,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_SemiFinalist",
-				"item_description": "",
+				"item_name": "Semifinalist at ESL One Cologne 2014",
+				"item_description": "This championship trophy was awarded to the Semifinalist at The ESL One Cologne 2014 CS:GO Championship.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_trophy_semifinalist",
@@ -1655,8 +1655,8 @@
 				"defindex": 886,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_QuarterFinalist",
-				"item_description": "",
+				"item_name": "Quarterfinalist at ESL One Cologne 2014",
+				"item_description": "This championship trophy was awarded to the Quarterfinalist at The ESL One Cologne 2014 CS:GO Championship.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_trophy_quarterfinalist",
@@ -1680,8 +1680,8 @@
 				"defindex": 887,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_PickEmBronze",
-				"item_description": "",
+				"item_name": "Bronze ESL One Cologne 2014 Pick'Em Challenge Trophy",
+				"item_description": "This bronze trophy was awarded during the ESL One Cologne 2014 Pick'Em Challenge.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_prediction_bronze",
@@ -1705,8 +1705,8 @@
 				"defindex": 888,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_PickEmSilver",
-				"item_description": "",
+				"item_name": "Silver ESL One Cologne 2014 Pick'Em Challenge Trophy",
+				"item_description": "This silver trophy was awarded during the ESL One Cologne 2014 Pick'Em Challenge.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_prediction_silver",
@@ -1730,8 +1730,8 @@
 				"defindex": 889,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "CSGO_CollectibleCoin_Cologne2014_PickEmGold",
-				"item_description": "",
+				"item_name": "Gold ESL One Cologne 2014 Pick'Em Challenge Trophy",
+				"item_description": "This gold trophy was awarded during the ESL One Cologne 2014 Pick'Em Challenge.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/cologne_prediction_gold",
@@ -1756,7 +1756,7 @@
 				"item_class": "tool",
 				"item_type_name": "Passe",
 				"item_name": "Passe da Operação Acerto de Contas",
-				"item_description": "O evento Operação Acerto de Contas teve o seu início e término nas datas 25 de abril e 2 de setembro, respectivamente. Criadores de mapas da comunidade coletivamente arrecadaram mais de 180 mil dólares. Este passe não fornece mais acesso a uma Operação mas pode ser resgatado para uma moeda comemorativa da Operação Acerto de Contas.",
+				"item_description": "A Operação Acerto de Contas começou em 25 de abril de 2013 e acabou em 2 de setembro e rendeu a criadores de mapas da comunidade mais de 180 mil dólares. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Acerto de Contas.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/community_support_pass",
@@ -1784,7 +1784,7 @@
 				"defindex": 1001,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Moeda de Desafio da Operação Acerto de Contas",
+				"item_name": "Moeda de Desafio da Op. Acerto de Contas",
 				"item_description": "Participou da Operação Acerto de Contas para apoiar criadores de mapas da comunidade.",
 				"proper_name": false,
 				"item_quality": 4,
@@ -1809,7 +1809,7 @@
 				"defindex": 1002,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Moeda Prateada da Operação Acerto de Contas",
+				"item_name": "Moeda Prateada da Op. Acerto de Contas",
 				"item_description": "Participou da Operação Acerto de Contas por 10 horas para apoiar criadores de mapas da comunidade.",
 				"proper_name": false,
 				"item_quality": 4,
@@ -1834,7 +1834,7 @@
 				"defindex": 1003,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Moeda Dourada da Operação Acerto de Contas",
+				"item_name": "Moeda Dourada da Op. Acerto de Contas",
 				"item_description": "Participou da Operação Acerto de Contas por 50 horas para apoiar criadores de mapas da comunidade.",
 				"proper_name": false,
 				"item_quality": 4,
@@ -2393,7 +2393,7 @@
 				"item_class": "tool",
 				"item_type_name": "Passe",
 				"item_name": "Passe da Operação Fênix",
-				"item_description": "Dá acesso à Operação Fênix, que consiste no acesso a mapas da comunidade, itens exclusivos e o registro das suas estatísticas no modo competitivo.",
+				"item_description": "A Operação Fênix começou em 20 de fevereiro de 2014 e acabou em 2 de junho. Este passe não concede mais acesso a uma operação, mas pode ser resgatado em troca de uma Moeda da Operação Fênix.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/operation_phoenix_pass",
@@ -2422,7 +2422,7 @@
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda de Desafio da Op. Fênix",
-				"item_description": "Participou da Operação Fênix.\nJogue e vença partidas Competitivas da Operação Fênix para aprimorar esta moeda.",
+				"item_description": "Participou da Operação Fênix.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/operation_phoenix_bronze",
@@ -2492,7 +2492,7 @@
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda Prateada da Op. Fênix",
-				"item_description": "Participou da Operação Fênix.\nJogue e vença partidas Competitivas da Operação Fênix para aprimorar esta moeda.",
+				"item_description": "Participou da Operação Fênix.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/operation_phoenix_silver",
@@ -2631,8 +2631,8 @@
 				"defindex": 1027,
 				"item_class": "tool",
 				"item_type_name": "Passe",
-				"item_name": "Operation Breakout All Access Pass",
-				"item_description": "Grants all access to Operation Breakout, which consists of an upgradeable Challenge Coin, mission drops that reward new weapon finishes, Operation Breakout Case drops, and a journal that contains an Active Duty Scorecard, an Operation Scorecard, and Friends leaderboard.",
+				"item_name": "Passe Livre da Operação Libertação",
+				"item_description": "Concede acesso à Operação Libertação, que inclui uma moeda de desafio, permite obter caixas da Operação Libertação e missões que dão pinturas de armas exclusivas como recompensas e um diário que contém um boletim da campanha, um boletim da operação e classificações de amigos.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/operation_breakout_pass",
@@ -2660,8 +2660,8 @@
 				"defindex": 1028,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Operation Breakout Challenge Coin",
-				"item_description": "Participated in Operation Breakout.\nFulfill missions on official matchmaking servers to upgrade this coin.",
+				"item_name": "Moeda de Desafio da Op. Libertação",
+				"item_description": "Participou da Operação Libertação.\nCumpra missões em servidores oficiais para aprimorar esta moeda.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/operation_breakout_bronze",
@@ -2770,8 +2770,8 @@
 				"defindex": 1029,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Silver Operation Breakout Coin",
-				"item_description": "Participated in Operation Breakout.\nFulfill missions on official matchmaking servers to upgrade this coin.",
+				"item_name": "Moeda Prateada da Operação Libertação",
+				"item_description": "Participou da Operação Libertação.\nCumpra missões em servidores oficiais para aprimorar esta moeda.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/operation_breakout_silver",
@@ -2880,7 +2880,7 @@
 				"defindex": 1030,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Gold Operation Breakout Coin",
+				"item_name": "Moeda Dourada da Op. Libertação",
 				"item_description": "Participou da Operação Libertação.",
 				"proper_name": false,
 				"item_quality": 4,
@@ -2991,7 +2991,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda do Mapa Castle",
-				"item_description": "",
+				"item_description": " ",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/maptoken_castle",
@@ -3012,7 +3012,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda do Mapa Black Gold",
-				"item_description": "",
+				"item_description": " ",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/maptoken_blackgold",
@@ -3033,7 +3033,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda do Mapa Rush",
-				"item_description": "",
+				"item_description": " ",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/maptoken_rush",
@@ -3054,7 +3054,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda do Mapa Mist",
-				"item_description": "",
+				"item_description": " ",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/maptoken_mist",
@@ -3075,7 +3075,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda do Mapa Insertion",
-				"item_description": "",
+				"item_description": " ",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/maptoken_insertion",
@@ -3096,7 +3096,7 @@
 				"item_class": "map_token",
 				"item_type_name": "Colecionável",
 				"item_name": "Moeda do Mapa Overgrown",
-				"item_description": "",
+				"item_description": " ",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/status_icons/maptoken_overgrown",
@@ -3357,7 +3357,7 @@
 				"item_class": "tool",
 				"item_type_name": "Chave",
 				"item_name": "Chave da Caixa da Operação Fênix",
-				"item_description": "Esta chave abre apenas Caixas da Operação Fênix",
+				"item_description": "Esta chave só abre Caixas da Operação Fênix",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/tools/crate_key_community_2",
@@ -3407,7 +3407,7 @@
 				"item_class": "tool",
 				"item_type_name": "Chave",
 				"item_name": "Chave da Caixa do Caçador",
-				"item_description": "Esta chave só abre Caixas de Armas do Caçador",
+				"item_description": "Esta chave só abre Caixas do Caçador",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/tools/crate_key_community_3",
@@ -3432,7 +3432,7 @@
 				"item_class": "collectible_item",
 				"item_type_name": "Missão",
 				"item_name": "Missão",
-				"item_description": "Fulfill missions on official matchmaking servers to earn the stated reward. You must complete the match to register any mission progress.",
+				"item_description": "Cumpra missões em servidores Competitivos oficiais para ganhar recompensas. Você deve jogar a partida por completo para que o progresso na missão seja registrado.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/tools/mission",
@@ -3454,7 +3454,7 @@
 				"item_class": "tool",
 				"item_type_name": "Chave",
 				"item_name": "Chave da Caixa do Caçador",
-				"item_description": "Esta chave só abre Caixas de Armas do Caçador",
+				"item_description": "Esta chave só abre Caixas do Caçador",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/tools/crate_key_community_3",
@@ -3504,7 +3504,7 @@
 				"item_class": "tool",
 				"item_type_name": "Chave",
 				"item_name": "Chave da Caixa da Operação Libertação",
-				"item_description": "This key only opens Operation Breakout Cases",
+				"item_description": "Esta chave só abre Caixas da Operação Libertação",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/tools/crate_key_community_4",
@@ -3529,7 +3529,7 @@
 				"item_class": "tool",
 				"item_type_name": "Chave",
 				"item_name": "Chave da Caixa da Operação Libertação",
-				"item_description": "This key only opens Operation Breakout Cases",
+				"item_description": "Esta chave só abre Caixas da Operação Libertação",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/tools/crate_key_community_4",
@@ -3586,8 +3586,8 @@
 				"defindex": 4002,
 				"item_class": "supply_crate",
 				"item_type_name": "Recipiente",
-				"item_name": "Caixa de eSports",
-				"item_description": "Uma parcela da renda obtida da chave usada para abri-la será destinada a premiações de torneios profissionais de CS:GO.",
+				"item_name": "Caixa de eSports de 2013",
+				"item_description": "Uma parcela da renda obtida com a venda da chave usada para abri-la será destinada a premiações de torneios profissionais de CS:GO.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/weapon_cases/crate_esports_2013",
@@ -3686,8 +3686,8 @@
 				"defindex": 4005,
 				"item_class": "supply_crate",
 				"item_type_name": "Recipiente",
-				"item_name": "Caixa de eSports de Fim de Ano",
-				"item_description": "Uma parcela da renda obtida da chave usada para abri-la será destinada a premiações de torneios profissionais de CS:GO.",
+				"item_name": "Caixa de eSports de Fim de Ano de 2013",
+				"item_description": "Uma parcela da renda obtida com a venda da chave usada para abri-la será destinada a premiações de torneios profissionais de CS:GO.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/weapon_cases/crate_esports_2013_14",
@@ -4131,8 +4131,8 @@
 				"defindex": 4019,
 				"item_class": "supply_crate",
 				"item_type_name": "Recipiente",
-				"item_name": "eSports 2014 Summer Case",
-				"item_description": "Uma parcela da renda obtida da chave usada para abri-la será destinada a premiações de torneios profissionais de CS:GO.",
+				"item_name": "Caixa de eSports de Férias de 2014",
+				"item_description": "Uma parcela da renda obtida com a venda da chave usada para abri-la será destinada a premiações de torneios profissionais de CS:GO.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/weapon_cases/crate_esports_2014_summer",
@@ -4165,8 +4165,8 @@
 				"defindex": 4020,
 				"item_class": "supply_crate",
 				"item_type_name": "Recipiente",
-				"item_name": "ESL One Cologne 2014 Legends",
-				"item_description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+				"item_name": "Lendas do ESL One Cologne 2014",
+				"item_description": "Esta cápsula contém um único adesivo de um dos participantes do ESL One Cologne 2014. Uma parcela da renda será dividida igualmente entre as organizações inclusas.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_01",
@@ -4202,8 +4202,8 @@
 				"defindex": 4021,
 				"item_class": "supply_crate",
 				"item_type_name": "Recipiente",
-				"item_name": "ESL One Cologne 2014 Challengers",
-				"item_description": "This capsule contains a single ESL One Cologne 2014 participant sticker. A portion of the proceeds is shared equally among the included organizations.",
+				"item_name": "Desafiantes do ESL One Cologne 2014",
+				"item_description": "Esta cápsula contém um único adesivo de um dos participantes do ESL One Cologne 2014. Uma parcela da renda será dividida igualmente entre as organizações inclusas.",
 				"proper_name": false,
 				"item_quality": 4,
 				"image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_02",
@@ -4235,11 +4235,263 @@
 				
 			},
 			{
+				"name": "crate_esl14_promo_de_dust2",
+				"defindex": 4022,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Dust II Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_dust2",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_dust2.df8e342f4a1dcae65825ee67238c8c7319d35316.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 22
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esl14_promo_de_inferno",
+				"defindex": 4023,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Inferno Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_inferno",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_inferno.625d3ec90aeead39c10cba620cd40e971beb84b1.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 23
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esl14_promo_de_mirage",
+				"defindex": 4024,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Mirage Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_mirage",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_mirage.9b14fdeb121fc012013496c6e78ff1f7212135bb.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 24
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esl14_promo_de_nuke",
+				"defindex": 4025,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Nuke Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_nuke",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_nuke.0f12d84b7859a10f2d54353bb93bad94a17a97ce.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 25
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esl14_promo_de_cache",
+				"defindex": 4026,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Cache Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_cache",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cache.374ca6f8841a65c1890fc6f24f2a084c523ea9f8.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 26
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esl14_promo_de_cbble",
+				"defindex": 4027,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_cbble",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_cbble.5db3a4b745facff2db79a3ee6819f007bee736c0.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 27
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
+				"name": "crate_esl14_promo_de_overpass",
+				"defindex": 4028,
+				"item_class": "supply_crate",
+				"item_type_name": "Recipiente",
+				"item_name": "ESL One Cologne 2014 Overpass Souvenir Package",
+				"proper_name": false,
+				"item_quality": 4,
+				"image_inventory": "econ/weapon_cases/crate_esl14_promo_de_overpass",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/730/icons/econ/weapon_cases/crate_esl14_promo_de_overpass.8e84964930bb3bcd01328e9ec9d18246b701d815.png",
+				"image_url_large": "",
+				"capabilities": {
+					"decodable": true
+				},
+				"tool": {
+					"type": "supply_crate",
+					"usage_capabilities": {
+						"usable_out_of_game": true
+					}
+				},
+				"attributes": [
+					{
+						"name": "set supply crate series",
+						"class": "supply_crate_series",
+						"value": 28
+					},
+					{
+						"name": "tournament event id",
+						"class": "tournament_event_id",
+						"value": 4
+					}
+				]
+				
+			},
+			{
 				"name": "Collectible Pin - Dust II",
 				"defindex": 6001,
 				"item_class": "collectible_item",
 				"item_type_name": "Colecionável",
-				"item_name": "Dust II Pin",
+				"item_name": "Broche do Mapa Dust II",
 				"item_description": "Participante de evento do CS:GO – Série 1 – Dust II",
 				"proper_name": false,
 				"item_quality": 1,
@@ -5242,7 +5494,7 @@
 				"name": "match wins",
 				"defindex": 106,
 				"attribute_class": "match_wins",
-				"description_string": "Vitórias competitivas em mapas da Operação: %s1",
+				"description_string": "Vitórias competitivas em mapas da operação: %s1",
 				"description_format": "value_is_additive",
 				"effect_type": "positive",
 				"hidden": false,
@@ -5628,7 +5880,7 @@
 				"name": "quests complete",
 				"defindex": 171,
 				"attribute_class": "quests_complete",
-				"description_string": "Operation Missions Fulfilled: %s1",
+				"description_string": "Missões da operação cumpridas: %s1",
 				"description_format": "value_is_additive",
 				"effect_type": "positive",
 				"hidden": false,
@@ -5702,7 +5954,7 @@
 				"name": "deployment date",
 				"defindex": 180,
 				"attribute_class": "deployment_date",
-				"description_string": "Data de Recrutamento: %s1",
+				"description_string": "Data de recrutamento: %s1",
 				"description_format": "value_is_date",
 				"effect_type": "positive",
 				"hidden": false,
@@ -5832,6 +6084,26 @@
 					"weapon_bizon",
 					"weapon_famas",
 					"weapon_scar20"
+				]
+				
+			},
+			{
+				"item_set": "set_cache",
+				"name": "The Cache Collection",
+				"items": [
+					"weapon_negev",
+					"weapon_p250",
+					"weapon_aug",
+					"weapon_bizon",
+					"weapon_fiveseven",
+					"weapon_sg556",
+					"weapon_glock",
+					"weapon_mp9",
+					"weapon_xm1014",
+					"weapon_mac10",
+					"weapon_tec9",
+					"weapon_famas",
+					"weapon_galilar"
 				]
 				
 			},
@@ -5985,7 +6257,7 @@
 			},
 			{
 				"item_set": "set_esports",
-				"name": "A Coleção de eSports – 2013",
+				"name": "A Coleção de eSports de 2013",
 				"items": [
 					"weapon_m4a1",
 					"weapon_mag7",
@@ -6001,7 +6273,7 @@
 			},
 			{
 				"item_set": "set_esports_ii",
-				"name": "A Coleção de eSports de Fim de Ano",
+				"name": "A Coleção de eSports de Fim de Ano de 2013",
 				"items": [
 					"weapon_galilar",
 					"weapon_fiveseven",
@@ -6020,7 +6292,7 @@
 			},
 			{
 				"item_set": "set_esports_iii",
-				"name": "The eSports 2014 Summer Collection",
+				"name": "A Coleção de eSports de Férias de 2014",
 				"items": [
 					"weapon_ssg08",
 					"weapon_mac10",
