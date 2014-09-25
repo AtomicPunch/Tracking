@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.2cf4a022ec3bf6360e12cfdec6d1159aaf6c0a3d.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.21b6b8ff16e9c63563eabfa93067656d5d1da666.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -61634,7 +61634,7 @@
 				"item_class": "supply_crate",
 				"item_type_name": "Caixa de Suprimentos",
 				"item_name": "Limited Late Summer Crate",
-				"item_description": "This crate is special and cannot be opened yet.\nIt's contents will be limited and will only come from this crate.\nSome, but not all, of the items in this crate are Strange...",
+				"item_description": "This crate is special and requires a Limited Summer Key.\nIts contents will be limited and only come from this crate.\nSome, but not all, of the items in this crate are Strange...\n\nAfter 10/13/2014 this crate can no longer be opened.",
 				"proper_name": false,
 				"model_player": null,
 				"item_quality": 6,
@@ -61669,6 +61669,43 @@
 						"class": "supply_crate_series",
 						"value": 86
 					}
+				]
+				
+			},
+			{
+				"name": "Limited Summer 2014 Key",
+				"defindex": 5762,
+				"item_class": "tool",
+				"item_type_name": "Ferramenta",
+				"item_name": "Limited Late Summer Crate Key",
+				"item_description": "Used to open Limited Late Summer Crates.\nLate Summer Crates contain limited items that only come from it.\n\nAfter 10/13/2014 this will turn into a normal key.",
+				"proper_name": false,
+				"model_player": null,
+				"item_quality": 6,
+				"image_inventory": "backpack/crafting/wading_key",
+				"min_ilevel": 5,
+				"max_ilevel": 5,
+				"image_url": "http://media.steampowered.com/apps/440/icons/wading_key.04abdc8dda00d86e747b1a2e66f7c702e7c2ab65.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/wading_key_large.34ef244f2d9ebc40d2fea3978e378465d5eb45d3.png",
+				"craft_class": "tool",
+				"capabilities": {
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"tool": {
+					"type": "decoder_ring",
+					"restriction": "summer2014",
+					"usage_capabilities": {
+						"decodable": true
+					}
+				},
+				"used_by_classes": [
+
 				]
 				
 			},
@@ -95336,6 +95373,198 @@
 				
 			},
 			{
+				"name": "BETA LAN 1st Place Medal 2014",
+				"defindex": 8579,
+				"item_class": "tf_wearable",
+				"item_type_name": "Medalha de Torneio",
+				"item_name": "BETA LAN 1st Place",
+				"item_description": "2014",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/beta_lan_medal_gold/beta_lan_medal_gold_scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/beta_lan_medal_gold/beta_lan_medal_gold",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_gold.4d6273b5f117a456312b6adec27c5556c5c35c44.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_gold_large.4f0655bfc5e8f9416f26a0dc3e13ca040a0e4083.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "BETA LAN 2nd Place Medal 2014",
+				"defindex": 8580,
+				"item_class": "tf_wearable",
+				"item_type_name": "Medalha de Torneio",
+				"item_name": "BETA LAN 2nd Place",
+				"item_description": "2014",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/beta_lan_medal_silver/beta_lan_medal_silver_scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/beta_lan_medal_silver/beta_lan_medal_silver",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_silver.d2cb1f911f4e6770911247a82a14b166a4b51551.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_silver_large.b1ccbbd86990db9716fbda4278587031f0085397.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "BETA LAN 3rd Place Medal 2014",
+				"defindex": 8581,
+				"item_class": "tf_wearable",
+				"item_type_name": "Medalha de Torneio",
+				"item_name": "BETA LAN 3rd Place",
+				"item_description": "2014",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/beta_lan_medal_bronze/beta_lan_medal_bronze_scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/beta_lan_medal_bronze/beta_lan_medal_bronze",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_bronze.ca45ba8b21f322374c54db389a5e761e1825b44e.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_bronze_large.c09d127daa7ca190c9cc830dfa685ec84ca6597e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "BETA LAN Participant Medal 2014",
+				"defindex": 8582,
+				"item_class": "tf_wearable",
+				"item_type_name": "Medalha de Torneio",
+				"item_name": "BETA LAN Participant",
+				"item_description": "2014",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/beta_lan_medal_participation/beta_lan_medal_participation_scout.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/beta_lan_medal_participation/beta_lan_medal_participation",
+				"min_ilevel": 25,
+				"max_ilevel": 25,
+				"image_url": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_participation.a594700e69952a1980745e58d9399d7cf73da5f8.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/beta_lan_medal_participation_large.43ad41c913ec3f0d57e738da222d37728d61711e.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "",
+				"capabilities": {
+					"paintable": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					},
+					{
+						"name": "cannot trade",
+						"class": "cannot_trade",
+						"value": 1
+					}
+				]
+				
+			},
+			{
 				"name": "Halloween Spell: Paint 1",
 				"defindex": 8900,
 				"item_class": "tool",
@@ -118320,6 +118549,457 @@
 					}
 				]
 				
+			},
+			{
+				"name": "The Mishap Mercenary",
+				"defindex": 30475,
+				"item_class": "tf_wearable",
+				"item_type_name": "Chapéu",
+				"item_name": "Mishap Mercenary",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/pyro/sept2014_pyro_radioactive_mask/sept2014_pyro_radioactive_mask.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/pyro/sept2014_pyro_radioactive_mask/sept2014_pyro_radioactive_mask",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_pyro_radioactive_mask.713758577341d31217af0adb6b919277220f1bd9.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_pyro_radioactive_mask_large.b0eb5e310e3f6d3423d9425f15f8ea0d298e59d3.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Pyro"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Lady Killer",
+				"defindex": 30476,
+				"item_class": "tf_wearable",
+				"item_type_name": "Casaco",
+				"item_name": "Lady Killer",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/spy/sept2014_lady_killer/sept2014_lady_killer.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/spy/sept2014_lady_killer/sept2014_lady_killer",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_lady_killer.05a5b1932f96a6ec76eb403baa0adb29cebb085d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_lady_killer_large.b18436a53b4c81afec6126dad066502eea9079bc.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Spy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Lone Survivor",
+				"defindex": 30477,
+				"item_class": "tf_wearable",
+				"item_type_name": "Barba",
+				"item_name": "Lone Survivor",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/soldier/sept2014_lone_survivor/sept2014_lone_survivor.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/soldier/sept2014_lone_survivor/sept2014_lone_survivor",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_lone_survivor.b0cd6060ca56dbbd70b3fe5cee0f031ced4b4b67.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_lone_survivor_large.c0d452d75ad4c414fd33130f674f56ac70a444de.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Soldier"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Poacher's Safari Jacket",
+				"defindex": 30478,
+				"item_class": "tf_wearable",
+				"item_type_name": "Jacket",
+				"item_name": "Poacher's Safari Jacket",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/sniper/sept2014_poachers_safari_jacket/sept2014_poachers_safari_jacket.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/sniper/sept2014_poachers_safari_jacket/sept2014_poachers_safari_jacket",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_poachers_safari_jacket.efecafd49113b99906258f163aea13168b1481d6.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_poachers_safari_jacket_large.ec48e2de48314b80bdd62dadc605dd49f0297f8b.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Thirst Blood",
+				"defindex": 30479,
+				"item_class": "tf_wearable",
+				"item_type_name": "Cabelo",
+				"item_name": "Thirst Blood",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/scout/sept2014_thirst_blood/sept2014_thirst_blood.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/scout/sept2014_thirst_blood/sept2014_thirst_blood",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_thirst_blood.89868602c43bef69402ecb791989787b4c12ffc5.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_thirst_blood_large.082c0ac3c1df0eb6dccf2418e06a95f44fb20fed.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Scout"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Mann of the Seven Sees",
+				"defindex": 30480,
+				"item_class": "tf_wearable",
+				"item_type_name": "Casaco",
+				"item_name": "Mann of the Seven Sees",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/demo/sept2014_mann_of_the_seven_sees/sept2014_mann_of_the_seven_sees.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/demo/sept2014_mann_of_the_seven_sees/sept2014_mann_of_the_seven_sees",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_mann_of_the_seven_sees.a39c38c763cb9a4f75b881f82929f433df909ac1.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_mann_of_the_seven_sees_large.8524c54309abe029b40fb6aec5387e0ab3e93723.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Demoman"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Hillbilly Speed-Bump",
+				"defindex": 30481,
+				"item_class": "tf_wearable",
+				"item_type_name": "Companheiro de Bolso",
+				"item_name": "Hillbilly Speed-Bump",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/all_class/sept2014_hillbilly_speedbump/sept2014_hillbilly_speedbump_sniper.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/all_class/sept2014_hillbilly_speedbump/sept2014_hillbilly_speedbump",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_hillbilly_speedbump.740c11469031a55ddb463dfdceea0e700cf5aa9d.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_hillbilly_speedbump_large.fe8e887c257d449664bba2e7eb0b75e62fa72305.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Sniper",
+					"Engineer"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "The Unshaved Bear",
+				"defindex": 30482,
+				"item_class": "tf_wearable",
+				"item_type_name": "Barba",
+				"item_name": "Unshaved Bear",
+				"proper_name": true,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/heavy/sept2014_unshaved_bear/sept2014_unshaved_bear.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/heavy/sept2014_unshaved_bear/sept2014_unshaved_bear",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_unshaved_bear.6e4bac79cf8afbca432b48ced9771301d84499ef.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_unshaved_bear_large.408bd96897bafc8a5cf5657253ca4095c05885ed.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Heavy"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
+			},
+			{
+				"name": "Pocket Heavy",
+				"defindex": 30483,
+				"item_class": "tf_wearable",
+				"item_type_name": "Companheiro de Bolso",
+				"item_name": "Pocket Heavy",
+				"proper_name": false,
+				"item_slot": "misc",
+				"model_player": "models/workshop/player/items/medic/sept2014_pocket_heavy/sept2014_pocket_heavy.mdl",
+				"item_quality": 6,
+				"image_inventory": "backpack/workshop/player/items/medic/sept2014_pocket_heavy/sept2014_pocket_heavy",
+				"min_ilevel": 1,
+				"max_ilevel": 100,
+				"image_url": "http://media.steampowered.com/apps/440/icons/sept2014_pocket_heavy.697d267a879e17b8cf482e049637f81710e5e9ca.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/sept2014_pocket_heavy_large.739f63ba9e4c7d96bfd52071f2ec72844fc10272.png",
+				"drop_type": "none",
+				"craft_class": "",
+				"craft_material_type": "hat",
+				"capabilities": {
+					"paintable": true,
+					"nameable": true,
+					"can_craft_if_purchased": true,
+					"can_gift_wrap": true,
+					"can_craft_count": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"used_by_classes": [
+					"Medic"
+				]
+				,
+				"attributes": [
+					{
+						"name": "kill eater score type",
+						"class": "kill_eater_score_type",
+						"value": 64
+					},
+					{
+						"name": "kill eater kill type",
+						"class": "kill_eater_kill_type",
+						"value": 64
+					}
+				]
+				
 			}
 		]
 		,
@@ -125023,7 +125703,7 @@
 			},
 			{
 				"item_set": "short2014_pyro_pack1",
-				"name": "The Ronin Roaster Pack",
+				"name": "TF_Set_short2014_PyroPack1",
 				"items": [
 					"The Combustible Kabuto",
 					"The Sengoku Scorcher"
@@ -125032,7 +125712,7 @@
 			},
 			{
 				"item_set": "short2014_pyro_pack2",
-				"name": "The Sons of Arsonry Pack",
+				"name": "\t\t",
 				"items": [
 					"The Gas Guzzler",
 					"The Smoking Skid Lid",
@@ -125071,7 +125751,7 @@
 			},
 			{
 				"item_set": "short2014_sniper_pack",
-				"name": "The Straight Shooter Pack",
+				"name": "\t\t",
 				"items": [
 					"The Scoper's Smoke",
 					"The Triggerman's Tacticals"
@@ -125080,7 +125760,7 @@
 			},
 			{
 				"item_set": "short2014_soldier_pack",
-				"name": "The Federal Express Pack",
+				"name": "\t\t",
 				"items": [
 					"The Spook Specs",
 					"The Classified Coif",
