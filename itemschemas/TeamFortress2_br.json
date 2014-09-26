@@ -125703,7 +125703,7 @@
 			},
 			{
 				"item_set": "short2014_pyro_pack1",
-				"name": "TF_Set_short2014_PyroPack1",
+				"name": "The Ronin Roaster Pack",
 				"items": [
 					"The Combustible Kabuto",
 					"The Sengoku Scorcher"
@@ -125712,7 +125712,7 @@
 			},
 			{
 				"item_set": "short2014_pyro_pack2",
-				"name": "\t\t",
+				"name": "The Sons of Arsonry Pack",
 				"items": [
 					"The Gas Guzzler",
 					"The Smoking Skid Lid",
@@ -125751,7 +125751,7 @@
 			},
 			{
 				"item_set": "short2014_sniper_pack",
-				"name": "\t\t",
+				"name": "The Straight Shooter Pack",
 				"items": [
 					"The Scoper's Smoke",
 					"The Triggerman's Tacticals"
@@ -125760,7 +125760,7 @@
 			},
 			{
 				"item_set": "short2014_soldier_pack",
-				"name": "\t\t",
+				"name": "The Federal Express Pack",
 				"items": [
 					"The Spook Specs",
 					"The Classified Coif",
