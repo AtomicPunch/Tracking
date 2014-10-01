@@ -117841,6 +117841,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Chapéu",
 				"item_name": "Tipped Lid",
+				"item_description": "Tipped to the jauntiest of angles. Helps the noblest of causes. (99 percent of community revenue goes to One Step Camp, a camp program for kids with cancer.)",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/short2014_tip_of_the_hats/short2014_tip_of_the_hats_scout.mdl",
