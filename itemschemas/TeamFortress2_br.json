@@ -1,7 +1,7 @@
 {
 	"result": {
 		"status": 1,
-		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.99164194fbd414ed8af806214f0f210b1b22b429.txt",
+		"items_game_url": "http://media.steampowered.com/apps/440/scripts/items/items_game.54736442c54b7c8ceb146df44bcf855b111ffe02.txt",
 		"qualities": {
 			"Normal": 0,
 			"rarity1": 1,
@@ -48570,6 +48570,47 @@
 						"name": "is marketable",
 						"class": "is_marketable",
 						"value": 1
+					}
+				]
+				
+			},
+			{
+				"name": "TF_WEAPON_SPELLBOOK",
+				"defindex": 1132,
+				"item_class": "tf_weapon_spellbook",
+				"item_type_name": "Livro de Feitiços\n",
+				"item_name": "Revista de Feitiços",
+				"item_description": "\nUma edição antiga da revista Feitititiços.\nEncontrada no fundo de um armário, ela tem mágica o suficiente para qualquer situação.\n\nEquipe-a para coletar e lançar feitiços.",
+				"proper_name": false,
+				"item_slot": "action",
+				"model_player": "",
+				"item_quality": 0,
+				"image_inventory": "backpack/props_halloween/hwn_spellbook_magazine",
+				"min_ilevel": 1,
+				"max_ilevel": 1,
+				"image_url": "http://media.steampowered.com/apps/440/icons/hwn_spellbook_magazine.3527be41918413569094879536304de8c9c44186.png",
+				"image_url_large": "http://media.steampowered.com/apps/440/icons/hwn_spellbook_magazine_large.e9099cdce302ce467b4930d6dfb4d0f22dd4b3e0.png",
+				"capabilities": {
+					"nameable": true,
+					"can_craft_mark": true,
+					"can_be_restored": true,
+					"strange_parts": true,
+					"can_card_upgrade": true,
+					"can_strangify": true,
+					"can_killstreakify": true,
+					"can_consume": true
+				},
+				"styles": [
+					{
+						"name": "TF_UnknownStyle"
+					}
+				]
+				,
+				"attributes": [
+					{
+						"name": "single wep deploy time decreased",
+						"class": "mult_single_wep_deploy_time",
+						"value": 0.5
 					}
 				]
 				
@@ -97318,7 +97359,7 @@
 				"defindex": 8937,
 				"item_class": "tool",
 				"item_type_name": "Encantamento de Servidor",
-				"item_name": "Encantamento: Dia das Bruxas Instantâneo",
+				"item_name": "Dia das Bruxas Instantâneo",
 				"item_description": "Este encantamento permite que itens de Dia das Bruxas sejam usados por qualquer um em um servidor registrado por duas horas.\n\nLançar o encantamento iniciará uma votação para que haja consentimento dos demais jogadores do servidor. Este item desaparecerá quando o encantamento no servidor terminar.",
 				"proper_name": false,
 				"model_player": null,
@@ -117919,7 +117960,7 @@
 				"item_class": "tf_wearable",
 				"item_type_name": "Chapéu",
 				"item_name": "Chapéu-coco Caridoso",
-				"item_description": "Tipped to the jauntiest of angles. Helps the noblest of causes. (99 percent of community revenue goes to One Step Camp, a camp program for kids with cancer.)",
+				"item_description": "Inclinado para o mais desenvolto dos ângulos. Ajuda para a mais nobre das causas. (99% da renda da comunidade será revertida ao One Step Camp, um programa de acampamento  para crianças com câncer.)",
 				"proper_name": false,
 				"item_slot": "misc",
 				"model_player": "models/workshop/player/items/all_class/short2014_tip_of_the_hats/short2014_tip_of_the_hats_scout.mdl",
